@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
+  <meta content="#4dabf7" name="theme-color">
+  <link href="styles.css" rel="stylesheet" type="text/css">
+  <title>Korean Studies Quiz</title>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>Korean Studies Quiz</h1>
+    <div class="stats">
+      <span id="progress">Question: 0/0</span>
+      <span id="score">Score: 0/0 (0%)</span>
+    </div>
+  </header>
+  <main>
+    <div id="question-container">
+      <p class="question" id="question-text"></p>
+      <div class="options" id="options-container"></div>
+    </div>
+    <div class="hidden" id="feedback-container">
+      <p id="feedback-text"></p>
+      <button class="button" id="next-button">Next Question</button>
+    </div>
+  </main>
+</div>
+<script src="script.js"></script>
+</body>
+</html>

@@ -13,10 +13,10 @@
   {
     "question": "What is the 'Jeon-Se' system in Korean housing?",
     "options": [
-      "A monthly rental system",
-      "A large upfront deposit with no monthly rent",
-      "A government housing program",
-      "A traditional housing architecture"
+      "A monthly rental system with deposit",
+      "A large upfront deposit where interest serves as rent",
+      "A government housing subsidy program",
+      "A rent-to-own system"
     ],
     "correct": 1,
     "explanation": "The Jeon-Se system is a unique Korean rental arrangement where tenants pay a large lump sum deposit upfront instead of monthly rent. The landlord can invest this deposit during the rental period and earn interest, which serves as their rental income. When the lease ends, the original deposit is returned to the tenant."
@@ -297,15 +297,15 @@
     "explanation": "Japan's earlier exposure to Western technology, particularly military technology, gave them a significant advantage over Korea. After initially resisting Western influence, Japan adopted Western weaponry and ideologies, leading to their technological superiority in East Asia and eventual colonization of Korea."
   },
   {
-    "question": "What is the significance of the 'lead time' in traditional Korean side dishes?",
+    "question": "What is the significance of fermentation in traditional Korean side dishes?",
     "options": [
-      "The time needed to learn the recipe",
-      "The preparation time before eating",
-      "The fermentation period required",
-      "The serving order of dishes"
+      "It was purely for taste",
+      "It was mainly for preservation in Korea's climate",
+      "It was only for special occasions",
+      "It was a recent innovation"
     ],
-    "correct": 2,
-    "explanation": "The 'lead time' in Korean side dishes refers to the fermentation period required for many traditional Korean side dishes. This fermentation process was crucial for food preservation in Korea's climate and has become a defining characteristic of Korean cuisine."
+    "correct": 1,
+    "explanation": "Fermentation was crucial for food preservation in Korea's climate and has become a defining characteristic of Korean cuisine, particularly in side dishes. This preservation method was essential before modern refrigeration."
   },
   {
     "question": "What distinguishes modern Korean restaurants' side dish service?",
@@ -398,10 +398,10 @@
   {
     "question": "Why was beef historically significant in Korean society?",
     "options": [
-      "It was the most common meat available",
-      "It was considered sacred",
-      "It signified wealth due to cows' agricultural value",
-      "It was mainly exported"
+      "It was the most commonly available meat",
+      "It was reserved for religious ceremonies",
+      "It indicated wealth because cows were valuable for farming labor",
+      "It was primarily for export"
     ],
     "correct": 2,
     "explanation": "Beef, particularly from cows, historically signified wealth in Korean society because cows were valuable for agricultural labor. The ability to slaughter a cow purely for culinary purposes indicated that one could afford to lose its labor value."
@@ -493,5 +493,27 @@
     ],
     "correct": 1,
     "explanation": "Kim Young-Sam and Kim Dae-Jung made a strategic error by splitting their combined votes instead of unifying behind one candidate. Their combined votes would have won against Roh Tae-Woo, but their split allowed him to win the election."
+  },
+  {
+    "question": "How did university campus culture influence Korean political activism?",
+    "options": [
+      "Universities were politically neutral",
+      "They were centers of activism so powerful that even dictators hesitated to close them",
+      "They only focused on academic pursuits",
+      "They supported government policies"
+    ],
+    "correct": 1,
+    "explanation": "Universities were such powerful centers of activism that even Park Chung-Hee, who recognized their danger, knew closing them would be more dangerous than leaving them open. This was proven when Chun Doo-Whan's attempt to close them backfired significantly."
+  },
+  {
+    "question": "How has modern Seoul's population density affected its food culture?",
+    "options": [
+      "It led to more home cooking",
+      "It made food delivery more economical and diverse",
+      "It decreased restaurant variety",
+      "It increased traditional cooking"
+    ],
+    "correct": 1,
+    "explanation": "Seoul's dense population has made food delivery more economical and accessible, while also supporting a diverse food scene. The concentrated population allows for efficient delivery systems and supports a wide variety of dining options."
   }
 ]

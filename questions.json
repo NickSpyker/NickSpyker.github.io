@@ -163,5 +163,225 @@
     ],
     "correct": 1,
     "explanation": "HOT was fundamentally different from Seo Taiji and the Boys because they were deliberately created as a product by SM Productions, while Seo Taiji and the Boys formed naturally. HOT represented the beginning of the manufactured K-pop group model, where members were carefully selected and trained, setting the template for future K-pop groups."
+  },
+  {
+    "question": "What was a major unintended consequence of President Syngman Rhee's mandatory education policy?",
+    "options": [
+      "Increased poverty rates",
+      "Creation of an educated generation that would oppose his regime",
+      "Decreased literacy rates",
+      "Economic stagnation"
+    ],
+    "correct": 1,
+    "explanation": "While Rhee's mandatory education policy was widely celebrated, it ultimately contributed to his downfall. The first generation of properly educated citizens (Baby Boomers) learned about democratic principles and could make informed decisions, leading them to oppose his dictatorial practices and eventually help remove him from power."
+  },
+  {
+    "question": "How did Korea's relationship with Japan change during Park Chung-Hee's era?",
+    "options": [
+      "They became military allies",
+      "They severed all diplomatic ties",
+      "They established trade relations despite public opposition",
+      "They formed a cultural exchange program"
+    ],
+    "correct": 2,
+    "explanation": "Despite intense public opposition due to historical colonization grievances, Park Chung-Hee made the pragmatic decision to open trade with Japan. While extremely unpopular initially, this decision ultimately contributed to Korea's economic growth as Japan was the closest viable trading partner, being blocked from China and Russia by North Korea."
+  },
+  {
+    "question": "What was the significance of the Gwangju Uprising in 1980?",
+    "options": [
+      "It was a celebration of democracy",
+      "It was a well-organized revolt that revealed North Korean influence",
+      "It was a peaceful protest movement",
+      "It was a student-only demonstration"
+    ],
+    "correct": 1,
+    "explanation": "The Gwangju Uprising was significant as it was an unusually well-organized revolt with military-like tactics, partly due to North Korean infiltrators seeing an opportunity. The subsequent massacre by President Chun solidified public hatred against his regime and led to continued civil unrest."
+  },
+  {
+    "question": "What is unique about Korea's economic and happiness correlation?",
+    "options": [
+      "It follows typical patterns of wealthy nations",
+      "It shows inverse correlation between wealth and happiness",
+      "It's the only wealthy nation with unusually high unhappiness levels",
+      "It shows no correlation between wealth and happiness"
+    ],
+    "correct": 2,
+    "explanation": "Korea represents a unique anomaly among wealthy nations - it's the only country that is both extremely wealthy and notably unhappy. While most first-world countries show a positive correlation between material wealth and national happiness, Korea breaks this pattern with high economic success but low happiness levels."
+  },
+  {
+    "question": "What characterizes the modern Korean food industry in Seoul?",
+    "options": [
+      "Preference for traditional cooking methods",
+      "Focus on visual appeal and social media presence",
+      "Emphasis on home cooking",
+      "Rejection of foreign influences"
+    ],
+    "correct": 1,
+    "explanation": "The modern Korean food industry, especially in Seoul, is characterized by its focus on visual appeal and social media presence. Food has become social capital, with emphasis on how it looks for social media rather than just taste, leading to a rise in 'visual food' culture."
+  },
+  {
+    "question": "How did Korean housing preferences change with modernization?",
+    "options": [
+      "Increased preference for traditional housing",
+      "Shift from communal to individual spaces",
+      "Maintenance of multi-generational homes",
+      "Emphasis on larger shared spaces"
+    ],
+    "correct": 1,
+    "explanation": "With modernization, Korean housing preferences shifted from traditional communal spaces to more individualized spaces. This included a move from shared, multi-purpose rooms to dedicated spaces for specific activities, and an increase in the size of personal spaces over shared spaces."
+  },
+  {
+    "question": "What distinguished Park Chung-Hee's conservatism from Western conservatism?",
+    "options": [
+      "He promoted small government",
+      "He supported free market principles",
+      "He maintained a strong governmental role while being culturally conservative",
+      "He rejected all traditional values"
+    ],
+    "correct": 2,
+    "explanation": "Park Chung-Hee's conservatism was unique as it combined strong cultural conservatism with heavy government intervention - unlike Western conservatism which typically advocates for small government. He maintained a father-figure role and strong government control while enforcing conservative cultural values."
+  },
+  {
+    "question": "What is the 'Octopus Model' in Korean business context?",
+    "options": [
+      "A networking strategy",
+      "Chaebols' expansion into multiple industries",
+      "An organizational structure",
+      "A marketing approach"
+    ],
+    "correct": 1,
+    "explanation": "The 'Octopus Model' refers to how Chaebols (Korean conglomerates) expanded ruthlessly into multiple diverse industries using government loans, spreading their influence across various sectors like an octopus's tentacles, often without proper risk management."
+  },
+  {
+    "question": "What characteristic of Hallyu content production is considered essential to its success?",
+    "options": [
+      "Focus on artistic integrity",
+      "Catering to mature audiences",
+      "Emphasis on experimental content",
+      "Making content accessible to all age groups"
+    ],
+    "correct": 3,
+    "explanation": "A key characteristic of Hallyu content production is its focus on making content accessible to all age groups, particularly targeting younger audiences. This 'paedocracy' approach ensures wider market reach and commercial success by creating content that can be consumed by everyone, prioritizing broad appeal over experimental or complex content."
+  },
+  {
+    "question": "Why was closing universities considered a major mistake by President Chun Doo-Whan?",
+    "options": [
+      "It reduced economic growth",
+      "It violated international laws",
+      "It triggered unprecedented activism and opposition",
+      "It caused diplomatic issues"
+    ],
+    "correct": 2,
+    "explanation": "Closing universities was a major strategic error as universities were centers of activism and education. Even Park Chung-Hee, who recognized universities as potential threats, never attempted to close them as he understood this would be more dangerous than leaving them open. The closure triggered intense opposition and unrest."
+  },
+  {
+    "question": "What was significant about Korea's isolation policy before Japanese colonization?",
+    "options": [
+      "It strengthened domestic economy",
+      "It protected cultural traditions",
+      "It proved detrimental during the era of global modernization",
+      "It improved diplomatic relations"
+    ],
+    "correct": 2,
+    "explanation": "Korea's isolationist policy, while historically protective, proved to be a critical weakness during the 19th and 20th centuries when the world was experiencing unprecedented modernization and globalization. This isolation left Korea vulnerable and unprepared for the rapid changes happening globally."
+  },
+  {
+    "question": "How did Japan's early exposure to Western technology affect Korea?",
+    "options": [
+      "It helped Korea modernize faster",
+      "It led to Korea's eventual colonization by Japan",
+      "It improved Korea-Japan relations",
+      "It had no significant impact"
+    ],
+    "correct": 1,
+    "explanation": "Japan's earlier exposure to Western technology, particularly military technology, gave them a significant advantage over Korea. After initially resisting Western influence, Japan adopted Western weaponry and ideologies, leading to their technological superiority in East Asia and eventual colonization of Korea."
+  },
+  {
+    "question": "What is the significance of the 'lead time' in traditional Korean side dishes?",
+    "options": [
+      "The time needed to learn the recipe",
+      "The preparation time before eating",
+      "The fermentation period required",
+      "The serving order of dishes"
+    ],
+    "correct": 2,
+    "explanation": "The 'lead time' in Korean side dishes refers to the fermentation period required for many traditional Korean side dishes. This fermentation process was crucial for food preservation in Korea's climate and has become a defining characteristic of Korean cuisine."
+  },
+  {
+    "question": "What distinguishes modern Korean restaurants' side dish service?",
+    "options": [
+      "They must be ordered separately",
+      "They're provided free with main dishes",
+      "They change daily",
+      "They're served only on request"
+    ],
+    "correct": 1,
+    "explanation": "A unique characteristic of Korean restaurants is that side dishes (banchan) are provided free of charge with main dishes. These side dishes are typically consistent between meals, with the main dish being the variable component."
+  },
+  {
+    "question": "How has modern Korean youth culture affected the soju industry?",
+    "options": [
+      "Increased production of traditional soju",
+      "Led to the creation of export-only flavored versions",
+      "Decreased overall soju consumption",
+      "Changed the alcohol content"
+    ],
+    "correct": 1,
+    "explanation": "Post-pandemic, younger Koreans' drinking habits changed significantly, with many never adopting traditional drinking culture. This led to flavored soju being produced primarily for export markets, as domestic consumers (mainly older people) prefer traditional unflavored soju."
+  },
+  {
+    "question": "What was the primary reason for the creation of the Chaebol system?",
+    "options": [
+      "To promote fair competition",
+      "To prevent foreign ownership",
+      "To eliminate market competition for faster growth",
+      "To support small businesses"
+    ],
+    "correct": 2,
+    "explanation": "The Chaebol system was created to eliminate domestic market competition, allowing companies to focus resources on growth and expansion rather than competing with each other. This was done to accelerate economic development through efficiency and focused growth."
+  },
+  {
+    "question": "What role did food play in Korea's historical class structure?",
+    "options": [
+      "All classes ate the same foods",
+      "Nobility and peasants differed mainly in preparation methods",
+      "Only nobility had access to certain ingredients",
+      "Peasants had more diverse diets"
+    ],
+    "correct": 1,
+    "explanation": "The main difference between noble and peasant food in Korea was not primarily in ingredients but in the nuance of cooking and preparation methods. Both classes' cuisine was labor-intensive, but the sophistication of preparation distinguished noble cuisine."
+  },
+  {
+    "question": "How has social media influenced modern Korean food culture?",
+    "options": [
+      "It has decreased restaurant popularity",
+      "It has led to a focus on traditional recipes",
+      "It has created 'visual food' culture",
+      "It has simplified food preparation"
+    ],
+    "correct": 2,
+    "explanation": "Social media has created a 'visual food' culture in modern Korea, where food is consumed not just with the mouth but with the eyes and social media. This has led to increased emphasis on food presentation and its value as social capital."
+  },
+  {
+    "question": "What was unique about Kim Young-Sam's political strategy?",
+    "options": [
+      "He maintained consistent political views",
+      "He switched from liberal to conservative to win",
+      "He rejected all political parties",
+      "He focused only on foreign policy"
+    ],
+    "correct": 1,
+    "explanation": "Kim Young-Sam made a surprising political shift by turning conservative for the 1992 election, despite his previous liberal stance. He created The New Korea Party, absorbed the conservative base along with his personal voting base, and won the election as a conservative candidate."
+  },
+  {
+    "question": "What led to the emergence of Hallyu in the late 1990s?",
+    "options": [
+      "Government planning",
+      "Natural cultural evolution",
+      "The IMF crisis and need for new exports",
+      "International demand"
+    ],
+    "correct": 2,
+    "explanation": "Hallyu emerged as a response to the IMF crisis when Korea needed to pivot to new exports. The entertainment industry was identified as a potential export sector, leading to the strategic development and promotion of Korean cultural content internationally."
   }
 ]

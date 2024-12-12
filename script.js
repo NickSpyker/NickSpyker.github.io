@@ -56,7 +56,7 @@ class KoreanStudiesQuiz {
     this.optionsContainer.innerHTML = '';
 
     // Create new option elements
-    shuffledOptions.forEach((option, index) => {
+    shuffledOptions.forEach(option => {
       const button = document.createElement('button');
       button.className = 'option';
       button.textContent = option.text;
@@ -99,7 +99,7 @@ class KoreanStudiesQuiz {
     }
 
     // Show feedback message
-    this.feedbackText.textContent = isCorrect ? 'Correct!' : `Incorrect. The correct answer is: ${this.questions[this.currentQuestionIndex].options[this.questions[this.currentQuestionIndex].correct]}`;
+    this.feedbackText.textContent = isCorrect ? 'Correct!' : this.questions[this.currentQuestionIndex].explanation;
 
     this.updateScore();
   }

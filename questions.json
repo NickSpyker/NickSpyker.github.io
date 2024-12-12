@@ -7,7 +7,8 @@
       "Government-led industrialization and the Chaebol system",
       "Tourism development"
     ],
-    "correct": 2
+    "correct": 2,
+    "explanation": "Under Park Chung-Hee's leadership, Korea experienced unprecedented economic growth through his government-led industrialization policy and the creation of the Chaebol system. He actively recruited and supported large family-controlled business conglomerates (Chaebols) through government loans and granted them limited monopolies in various industries, which led to rapid industrial development and economic growth."
   },
   {
     "question": "What is the 'Jeon-Se' system in Korean housing?",
@@ -17,7 +18,8 @@
       "A government housing program",
       "A traditional housing architecture"
     ],
-    "correct": 1
+    "correct": 1,
+    "explanation": "The Jeon-Se system is a unique Korean rental arrangement where tenants pay a large lump sum deposit upfront instead of monthly rent. The landlord can invest this deposit during the rental period and earn interest, which serves as their rental income. When the lease ends, the original deposit is returned to the tenant."
   },
   {
     "question": "What characteristic defines Korean popular culture production?",
@@ -27,7 +29,8 @@
       "Quick turnaround and rapid production",
       "Limited international appeal"
     ],
-    "correct": 2
+    "correct": 2,
+    "explanation": "Korean pop culture is characterized by its extremely rapid production and quick turnaround time. This speed-focused approach has become a defining feature of Korean entertainment, particularly in areas like K-pop and drama production, where new content is constantly being created and released at a fast pace."
   },
   {
     "question": "What was the '3S Policy' implemented by President Chun Doo-Whan?",
@@ -37,7 +40,8 @@
       "Security, Stability, and Success",
       "Social, Scientific, and Systematic"
     ],
-    "correct": 0
+    "correct": 0,
+    "explanation": "The 3S Policy (Screen, Sports, and Sex) was implemented by President Chun Doo-Whan to keep the population entertained and distracted from his political failings. It marked the beginning of Korean Pop Culture, involving the promotion of colored TVs (Screen), sports events (Sports), and the relaxation of conservative social policies (Sex)."
   },
   {
     "question": "What is 'Hallyu'?",
@@ -47,7 +51,8 @@
       "The Korean Wave of cultural exports",
       "A political movement"
     ],
-    "correct": 2
+    "correct": 2,
+    "explanation": "Hallyu, literally meaning 'The Korean Wave,' refers to the significant increase in the global popularity of Korean culture and entertainment that began in the late 1990s. It emerged during the IMF era as Korea needed to pivot to new exports, leading to the spread of Korean entertainment, including K-pop, K-dramas, and other cultural products internationally."
   },
   {
     "question": "How is the Korean political spectrum different from Western countries?",
@@ -57,7 +62,8 @@
       "Based on views towards North Korea and Communism",
       "Based on social welfare policies"
     ],
-    "correct": 2
+    "correct": 2,
+    "explanation": "Unlike Western countries where the political spectrum is typically based on economic and social policies, Korean politics is primarily divided based on attitudes toward North Korea and Communism. This unique characteristic means that traditional Western concepts of liberal and conservative don't directly apply to Korean politics in the same way."
   },
   {
     "question": "What type of traditional Korean house was actively discouraged during the 'New Village Movement'?",
@@ -67,7 +73,8 @@
       "Modern apartments",
       "Concrete houses"
     ],
-    "correct": 1
+    "correct": 1,
+    "explanation": "During the New Village Movement, President Park Chung-Hee actively discouraged the traditional Cho-ga-jib (grass-roofed houses) as he viewed them as symbols of poverty. The government provided funds to help people build 'modern' housing instead, leading to the near-complete disappearance of Cho-ga-jib within two decades."
   },
   {
     "question": "What was unique about President Rhee Syngman among Korean presidents?",
@@ -77,7 +84,8 @@
       "He was the first and last scholarly/academic president",
       "He was democratically elected by the people"
     ],
-    "correct": 2
+    "correct": 2,
+    "explanation": "Rhee Syngman was notable for being the first and last scholarly/academic president who had studied abroad. While he was seen as one of the chosen few to have studied in the US, his understanding of democracy was influenced by the monarchy-type system he grew up in, creating a unique hybrid approach to leadership."
   },
   {
     "question": "Why is Korean food traditionally harder to export compared to Chinese food?",
@@ -87,7 +95,8 @@
       "Lack of historical Korean mass-migration",
       "Poor food preservation techniques"
     ],
-    "correct": 2
+    "correct": 2,
+    "explanation": "Korean food has been historically harder to export compared to Chinese food primarily due to the lack of significant Korean mass-migration throughout history. Unlike Chinese culture, which spread through widespread immigration, Korea remained relatively homogeneous and concentrated in the peninsula, limiting the natural spread and adaptation of its cuisine to other cultures."
   },
   {
     "question": "What was the 'Makgeolli Security Act'?",
@@ -97,7 +106,8 @@
       "A nickname for the National Security Act that punished anti-state speech",
       "A law protecting local breweries"
     ],
-    "correct": 2
+    "correct": 2,
+    "explanation": "The 'Makgeolli Security Act' was a nickname for the National Security Act, which allowed the government to punish 'anti-state entities.' It got this nickname because people would often drink makgeolli (Korean rice wine) after work and criticize the president, which could be considered 'anti-state' activity under this broadly-defined law."
   },
   {
     "question": "What is the primary reason for the high salt content in traditional Southern Korean cuisine?",
@@ -107,7 +117,8 @@
       "Food preservation in warmer climates",
       "Influence from foreign cuisines"
     ],
-    "correct": 2
+    "correct": 2,
+    "explanation": "The high salt content in Southern Korean cuisine is primarily due to the need for food preservation in warmer climates. Since food spoils faster in warmer regions, salt was traditionally used as a preservation method by drawing out moisture and creating an environment inhospitable to bacteria, a pattern seen in many southern regions globally."
   },
   {
     "question": "What was the main resource South Korea had after Japanese colonization?",
@@ -117,7 +128,8 @@
       "Oil reserves",
       "Human resources"
     ],
-    "correct": 3
+    "correct": 3,
+    "explanation": "After Japanese colonization, South Korea was left with virtually no natural resources - the land was barren, and there were no significant mineral or oil deposits. The only significant resource remaining was human resources, which became crucial to Korea's eventual economic development through their diligence and dedication."
   },
   {
     "question": "What characterized the IMF Era in Korea?",
@@ -127,7 +139,8 @@
       "Increased foreign investment",
       "Agricultural revolution"
     ],
-    "correct": 1
+    "correct": 1,
+    "explanation": "The IMF Era was characterized by a massive financial crisis and debt. By 1997, Korea's national debt reached 161.8 billion USD, with 60% due within one year. This crisis led to IMF intervention and required significant economic reforms, particularly in the Chaebol system, marking a crucial turning point in Korean economic history."
   },
   {
     "question": "What is a key characteristic of modern Korean housing crisis?",
@@ -137,7 +150,8 @@
       "Old apartments with larger spaces being used as investments",
       "Decrease in housing demand"
     ],
-    "correct": 2
+    "correct": 2,
+    "explanation": "A key characteristic of the modern Korean housing crisis is that older apartments, despite their age and potential safety issues, are often used as investments due to their larger floor spaces. Investors buy these properties not to live in them but as investments, expecting compensation when the buildings are eventually demolished and rebuilt, while renting them out to those who can't afford better options."
   },
   {
     "question": "How did HOT differ from Seo Taiji and the Boys?",
@@ -147,6 +161,7 @@
       "They focused on traditional music",
       "They were older when they debuted"
     ],
-    "correct": 1
+    "correct": 1,
+    "explanation": "HOT was fundamentally different from Seo Taiji and the Boys because they were deliberately created as a product by SM Productions, while Seo Taiji and the Boys formed naturally. HOT represented the beginning of the manufactured K-pop group model, where members were carefully selected and trained, setting the template for future K-pop groups."
   }
 ]

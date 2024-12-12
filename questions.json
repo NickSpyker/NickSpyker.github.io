@@ -383,5 +383,115 @@
     ],
     "correct": 2,
     "explanation": "Hallyu emerged as a response to the IMF crisis when Korea needed to pivot to new exports. The entertainment industry was identified as a potential export sector, leading to the strategic development and promotion of Korean cultural content internationally."
+  },
+  {
+    "question": "What was the historical significance of Park Chung-Hee's assassination?",
+    "options": [
+      "It was carried out by North Korean agents",
+      "It was done by his own bodyguard during dinner",
+      "It happened during a public protest",
+      "It was orchestrated by political opponents"
+    ],
+    "correct": 1,
+    "explanation": "Park Chung-Hee's assassination was carried out by his own bodyguard, the head of his security detail, while he was having dinner with a celebrity. This sudden end to his 16-year rule created another power vacuum in Korean politics."
+  },
+  {
+    "question": "Why was beef historically significant in Korean society?",
+    "options": [
+      "It was the most common meat available",
+      "It was considered sacred",
+      "It signified wealth due to cows' agricultural value",
+      "It was mainly exported"
+    ],
+    "correct": 2,
+    "explanation": "Beef, particularly from cows, historically signified wealth in Korean society because cows were valuable for agricultural labor. The ability to slaughter a cow purely for culinary purposes indicated that one could afford to lose its labor value."
+  },
+  {
+    "question": "What architectural feature made gi-wa-jib (tile-roofed houses) more durable than cho-ga-jib?",
+    "options": [
+      "Stronger foundation",
+      "Modular design of roof tiles",
+      "Thicker walls",
+      "Higher elevation"
+    ],
+    "correct": 1,
+    "explanation": "Gi-wa-jib's durability came from its modular roof tile design. If a tile was broken or missing, it could be fixed or replaced individually without compromising the entire roof structure, unlike the cho-ga-jib's grass roofing."
+  },
+  {
+    "question": "How did the 1988 Seoul Olympics influence President Chun's decisions?",
+    "options": [
+      "It encouraged more military control",
+      "It had no impact on his policies",
+      "It motivated him to implement democratic reforms to avoid embarrassment",
+      "It led to increased isolation"
+    ],
+    "correct": 2,
+    "explanation": "The upcoming 1988 Seoul Olympics influenced Chun to implement democratic reforms, as he didn't want to be responsible for damaging Korea's international image during this crucial opportunity to rebrand the country's reputation."
+  },
+  {
+    "question": "What characterized Korean food preparation across social classes?",
+    "options": [
+      "Simple techniques for all classes",
+      "Different ingredients for each class",
+      "Labor-intensive processes regardless of class",
+      "Quick preparation methods"
+    ],
+    "correct": 2,
+    "explanation": "Both noble and peasant Korean food preparation was characterized by labor-intensive processes. The main difference was in the nuance of cooking and preparation, not in the amount of work required."
+  },
+  {
+    "question": "What was unique about the political opposition during Park Chung-Hee's era?",
+    "options": [
+      "There was no opposition",
+      "The opposition won despite his attempts at control",
+      "The opposition supported his policies",
+      "The opposition was foreign-backed"
+    ],
+    "correct": 1,
+    "explanation": "Despite Park's military suppression and control attempts, the opposition surprisingly won the 1978 Parliamentary Election, showing that people were tired of his rule regardless of the economic benefits he brought to the country."
+  },
+  {
+    "question": "How did cho-ga-jib (grass-roofed houses) reflect Korean community structure?",
+    "options": [
+      "It showed individual wealth",
+      "It demonstrated technological advancement",
+      "It reflected a collectivist, agricultural society",
+      "It represented urban development"
+    ],
+    "correct": 2,
+    "explanation": "Cho-ga-jib reflected Korea's collectivist, agricultural society as both the farming of grains for the grass roofs and the biannual roof replacement required community cooperation and shared labor."
+  },
+  {
+    "question": "What characterized Korea's political system from 1948 to 1998?",
+    "options": [
+      "Multiple competing parties",
+      "Regular peaceful transitions",
+      "Single conservative party dominance",
+      "Democratic elections"
+    ],
+    "correct": 2,
+    "explanation": "From 1948 to 1998 (fifty years), Korea had only one party - the conservative party. It wasn't until 1998 that the country got its first truly democratically elected president without political manipulation."
+  },
+  {
+    "question": "How did urbanization affect Korean family structure?",
+    "options": [
+      "Strengthened extended family bonds",
+      "Led to nuclear family units and individualized spaces",
+      "Increased rural population",
+      "Maintained traditional living arrangements"
+    ],
+    "correct": 1,
+    "explanation": "Urbanization led to the nuclearization of Korean families, with a shift from multi-generational homes to nuclear family units, and a change in housing design to accommodate more individualized spaces rather than traditional shared spaces."
+  },
+  {
+    "question": "What was significant about Kim Young-Sam and Kim Dae-Jung's electoral strategy failure?",
+    "options": [
+      "They refused to participate",
+      "They split their combined voting base, allowing Roh Tae-Woo to win",
+      "They supported different policies",
+      "They joined the military party"
+    ],
+    "correct": 1,
+    "explanation": "Kim Young-Sam and Kim Dae-Jung made a strategic error by splitting their combined votes instead of unifying behind one candidate. Their combined votes would have won against Roh Tae-Woo, but their split allowed him to win the election."
   }
 ]

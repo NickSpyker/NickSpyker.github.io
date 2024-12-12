@@ -515,5 +515,588 @@
     ],
     "correct": 1,
     "explanation": "Seoul's dense population has made food delivery more economical and accessible, while also supporting a diverse food scene. The concentrated population allows for efficient delivery systems and supports a wide variety of dining options."
+  },
+  {
+    "question": "What was the primary motivation behind Park Chung-Hee's 'New Village Movement'?",
+    "options": [
+      "To promote traditional farming methods",
+      "To modernize agricultural practices and catch up with North Korea",
+      "To reduce rural population",
+      "To increase food exports"
+    ],
+    "correct": 1,
+    "explanation": "The 'New Village Movement' was primarily created to modernize South Korea's agricultural practices during the 1970s because North Korea was more industrially advanced at the time. This was due to the pre-division setup where the North had more factories while the South was mainly agricultural."
+  },
+  {
+    "question": "How did President Park Chung-Hee's relationship with corporations differ from typical conservative governance?",
+    "options": [
+      "He opposed all corporate influence",
+      "He maintained complete separation",
+      "He created a cooperative relationship between government and corporations",
+      "He allowed free market competition"
+    ],
+    "correct": 2,
+    "explanation": "Unlike typical conservative governance where government and corporations are at odds, Park Chung-Hee created a unique system where government and corporations worked together, driving economic growth through cooperation rather than competition."
+  },
+  {
+    "question": "What was a key characteristic of Korean democracy during its first 40 years (1948-1988)?",
+    "options": [
+      "Regular peaceful transitions of power",
+      "Military dictatorship despite democratic laws",
+      "Direct popular elections",
+      "Multiple political parties"
+    ],
+    "correct": 1,
+    "explanation": "Although Korea was technically democratic by law from 1948, it was effectively under military dictatorship until 1988. The first three presidents were all military dictators, showing a disconnect between the legal framework and political reality."
+  },
+  {
+    "question": "How did Korea's food preservation methods influence its regional cuisine differences?",
+    "options": [
+      "Northern food used more spices",
+      "Southern food was saltier due to preservation needs",
+      "Eastern food used more fermentation",
+      "Western food used more drying methods"
+    ],
+    "correct": 1,
+    "explanation": "Southern Korean cuisine traditionally contains more salt than northern cuisine because warmer climates required more preservation methods. Salt was used to remove moisture and create an environment hostile to bacteria, a pattern seen consistently in global north-south culinary divisions."
+  },
+  {
+    "question": "What distinguishes Korean conservatism from Western conservatism?",
+    "options": [
+      "Focus on free market principles",
+      "Emphasis on individual rights",
+      "Relationship with government size and intervention",
+      "Religious influence"
+    ],
+    "correct": 2,
+    "explanation": "Korean conservatism differs from Western conservatism primarily in its relationship with government size and intervention. While Western conservatives typically advocate for small government, Korean conservative leaders maintained large, interventionist governments while being culturally conservative."
+  },
+  {
+    "question": "How did the Korean education mandate affect political awareness?",
+    "options": [
+      "It reduced political participation",
+      "It created an informed opposition to authoritarianism",
+      "It strengthened support for military rule",
+      "It had no significant political impact"
+    ],
+    "correct": 1,
+    "explanation": "The mandatory education system, particularly for Baby Boomers, created the first generation to properly understand democratic principles. This educated population could make informed decisions against authoritarian rule, eventually contributing to opposition against military dictatorship."
+  },
+  {
+    "question": "What unique aspect characterized Korean side dish service in restaurants?",
+    "options": [
+      "High additional cost",
+      "Limited variety",
+      "Free provision with main dishes",
+      "Daily rotation"
+    ],
+    "correct": 2,
+    "explanation": "Korean restaurants uniquely provide free side dishes (banchan) with main dishes. These side dishes remain consistent between meals, with only the main dish changing, reflecting traditional Korean dining culture."
+  },
+  {
+    "question": "How did Korea's housing architecture reflect social changes during modernization?",
+    "options": [
+      "Increased emphasis on shared spaces",
+      "Shift from shared to individual rooms",
+      "Maintenance of traditional layouts",
+      "Focus on outdoor areas"
+    ],
+    "correct": 1,
+    "explanation": "Korean housing architecture shifted from traditional shared spaces to more individualized rooms during modernization, reflecting the change from multi-generational homes to nuclear families and increasing desire for privacy."
+  },
+  {
+    "question": "What characterizes Korea's unique position among wealthy nations?",
+    "options": [
+      "Highest education rates",
+      "Strongest economic growth",
+      "High wealth coupled with high unhappiness",
+      "Most technological advancement"
+    ],
+    "correct": 2,
+    "explanation": "Korea holds a unique position as the only country that is both extremely wealthy and notably unhappy, breaking the typical pattern where national wealth correlates with higher happiness levels seen in other developed nations."
+  },
+  {
+    "question": "How did Hallyu content development differ from traditional cultural exports?",
+    "options": [
+      "Focus on artistic integrity",
+      "Emphasis on local audience",
+      "Strategic modification for international appeal",
+      "Preservation of traditional elements"
+    ],
+    "correct": 2,
+    "explanation": "Hallyu content development followed a strategic process of importing, gentrifying, sweetening, and disseminating content for international appeal, rather than focusing on preserving traditional cultural elements or primarily serving local audiences."
+  },
+  {
+    "question": "What characterized cho-ga-jib maintenance in traditional Korean society?",
+    "options": [
+      "Annual individual repairs",
+      "Professional maintenance crews",
+      "Biannual community-based roof replacement",
+      "Monthly inspections"
+    ],
+    "correct": 2,
+    "explanation": "Cho-ga-jib required intensive community maintenance, specifically the replacement of grass roofs every six months. This task was labor-intensive and required community cooperation, demonstrating the collectivist nature of traditional Korean society."
+  },
+  {
+    "question": "How did Korean food culture traditionally address the need for protein?",
+    "options": [
+      "Heavy reliance on imported meat",
+      "Exclusive use of fish",
+      "One shared protein dish with multiple carb-rich side dishes",
+      "Equal distribution of meat in all dishes"
+    ],
+    "correct": 2,
+    "explanation": "Traditional Korean meals were structured around one shared protein-rich main dish accompanied by multiple carb-rich side dishes. This arrangement developed because protein was scarce and expensive, while agricultural societies needed quick energy from carbohydrates."
+  },
+  {
+    "question": "What distinguished gi-wa-jib from cho-ga-jib in terms of social status?",
+    "options": [
+      "Gi-wa-jib were more common",
+      "Gi-wa-jib required specialized skills and indicated wealth",
+      "Cho-ga-jib were preferred by nobility",
+      "Both had equal social status"
+    ],
+    "correct": 1,
+    "explanation": "Gi-wa-jib (tile-roofed houses) required specialized skills for construction and were more expensive, making them a symbol of wealth and status. Unlike cho-ga-jib, which anyone could build with community help, gi-wa-jib were primarily owned by the wealthy and royalty."
+  },
+  {
+    "question": "What factor most influenced the creation of Korean flavored soju?",
+    "options": [
+      "Traditional preferences",
+      "Domestic market demand",
+      "International export opportunities",
+      "Manufacturing innovation"
+    ],
+    "correct": 2,
+    "explanation": "Flavored soju was developed primarily for export markets after the pandemic, when younger Koreans' drinking habits changed significantly. While it was initially popular domestically, it's now produced mainly for export as older domestic consumers prefer traditional unflavored soju."
+  },
+  {
+    "question": "What was the traditional relationship between Korean food ingredients and labor?",
+    "options": [
+      "High ingredient costs, low labor costs",
+      "Low ingredient costs, high labor costs",
+      "Equal costs for both",
+      "Varying costs by region"
+    ],
+    "correct": 1,
+    "explanation": "Traditionally in Korea, food ingredients were relatively cheap (being readily available locally) while preparation was labor-intensive. This created a ratio where labor costs typically exceeded material costs in food preparation."
+  },
+  {
+    "question": "How has social media influenced modern Korean restaurant culture?",
+    "options": [
+      "Increased home cooking",
+      "Promoted traditional dishes",
+      "Created 'visual food' culture emphasizing appearance",
+      "Reduced restaurant popularity"
+    ],
+    "correct": 2,
+    "explanation": "Social media has transformed Korean restaurant culture by creating a 'visual food' culture where food's appearance and social media appeal are prioritized. Food has become social capital, often consumed visually through social media rather than just physically."
+  },
+  {
+    "question": "What explains the high salt content in southern Korean cuisine compared to northern?",
+    "options": [
+      "Personal taste preferences",
+      "Religious traditions",
+      "Climate-based preservation needs",
+      "Foreign influences"
+    ],
+    "correct": 2,
+    "explanation": "The higher salt content in southern Korean cuisine developed due to preservation needs in warmer climates. Southern regions needed more effective preservation methods as food spoiled faster in warmer temperatures, leading to heavier use of salt."
+  },
+  {
+    "question": "How did modern Korean housing development in the 70s-80s affect maintenance?",
+    "options": [
+      "Improved accessibility for repairs",
+      "Created easier maintenance systems",
+      "Made repairs difficult due to load-bearing walls containing utilities",
+      "Required less maintenance overall"
+    ],
+    "correct": 2,
+    "explanation": "Housing built during the 70s-80s boom used load-bearing walls that contained utilities like piping and gas lines, making repairs extremely difficult as these walls couldn't be modified without compromising structural integrity. This design choice, made to speed construction, created long-term maintenance challenges."
+  },
+  {
+    "question": "What characterized the 'New Village Movement's' approach to traditional housing?",
+    "options": [
+      "Preserved all traditional structures",
+      "Selectively preserved gi-wa-jib while eliminating cho-ga-jib",
+      "Modernized all housing equally",
+      "Focused only on urban areas"
+    ],
+    "correct": 1,
+    "explanation": "The New Village Movement under Park Chung-Hee specifically targeted cho-ga-jib (grass-roofed houses) for elimination as symbols of poverty, while preserving gi-wa-jib (tile-roofed houses) for their historical and cultural significance. This selective modernization reflected both practical and cultural considerations."
+  },
+  {
+    "question": "How has modern Korean family structure influenced food consumption patterns?",
+    "options": [
+      "Increased family dining",
+      "More home cooking",
+      "Rise in single-person households and eating out",
+      "Return to traditional meals"
+    ],
+    "correct": 2,
+    "explanation": "Modern Korean family structure, with more single-person households and later marriage ages (typically in the 30s), has led to increased eating out and food delivery. This shift reflects both convenience needs and changes in social structures."
+  },
+  {
+    "question": "What key factor shaped modern Korean pop culture according to the source?",
+    "options": [
+      "Traditional cultural values",
+      "Escapism from national unhappiness",
+      "International influences",
+      "Government promotion"
+    ],
+    "correct": 1,
+    "explanation": "According to the course material, Korea's intense focus on pop culture stems from widespread national unhappiness, with people using entertainment and media as a form of escapism from the stresses of daily life, despite being a wealthy nation."
+  },
+  {
+    "question": "What characterized the development of Korean entertainment industry after the IMF crisis?",
+    "options": [
+      "Focus on domestic market",
+      "Emphasis on traditional content",
+      "Strategic pivot to exports due to small domestic market",
+      "Government subsidies"
+    ],
+    "correct": 2,
+    "explanation": "When the Korean economy was near collapse during the IMF crisis, they needed to pivot to new exports. The entertainment industry was chosen as it couldn't sustain itself on the domestic audience alone, leading to a strategic focus on international markets."
+  },
+  {
+    "question": "What was the fundamental approach to Korean pop culture content creation?",
+    "options": [
+      "Pure originality",
+      "Traditional preservation",
+      "Import, gentrify, sweeten, and disseminate",
+      "Random experimentation"
+    ],
+    "correct": 2,
+    "explanation": "Korean pop culture followed a systematic approach: import content from international communities, gentrify it for Korean audiences, sweeten it through visual or auditory enhancement, and then disseminate it back to the international scene."
+  },
+  {
+    "question": "What distinguished Seo Taiji's impact on Korean music industry?",
+    "options": [
+      "He was the last significant figure before manufactured groups",
+      "He only performed traditional music",
+      "He failed commercially",
+      "He focused on international markets"
+    ],
+    "correct": 0,
+    "explanation": "Seo Taiji was the last socially significant pop culture figure that mattered on all levels before the current era of Korean pop culture, marking the transition from organic musical development to manufactured entertainment."
+  },
+  {
+    "question": "How did Lee Soo-Man revolutionize Korean entertainment?",
+    "options": [
+      "By focusing on traditional music",
+      "By creating the manufactured idol group model",
+      "By promoting solo artists only",
+      "By emphasizing live performances"
+    ],
+    "correct": 1,
+    "explanation": "After studying in America, Lee Soo-Man created SM Productions and revolutionized Korean entertainment by introducing the manufactured idol group model, treating groups as products that could be iterated and improved upon, starting with HOT."
+  },
+  {
+    "question": "What defines modern Korean food service industry in Seoul?",
+    "options": [
+      "Emphasis on traditional cooking",
+      "Low material costs and high labor value",
+      "High material costs and low wages",
+      "Focus on home delivery"
+    ],
+    "correct": 2,
+    "explanation": "Modern Korean food service in Seoul is characterized by low wages and high material costs, which is considered problematic as traditionally, Korean food had low material costs but was labor-intensive."
+  },
+  {
+    "question": "What is the 'paedocracy' principle in Korean entertainment?",
+    "options": [
+      "Focus on elderly audiences",
+      "Catering to children and young audiences for wider appeal",
+      "Emphasis on educational content",
+      "Priority on artistic quality"
+    ],
+    "correct": 1,
+    "explanation": "Paedocracy or 'ruling by children' in Korean entertainment means creating content that appeals to younger audiences and is easily digestible by all age groups, prioritizing commercial success over artistic complexity."
+  },
+  {
+    "question": "How did Korea's geographical limitations influence its cultural development?",
+    "options": [
+      "It led to focus on natural resources",
+      "It created emphasis on human resources",
+      "It promoted isolation",
+      "It encouraged maritime trade"
+    ],
+    "correct": 1,
+    "explanation": "Due to South Korea's poor natural resources and challenging geography, the country's only significant resource was its people, leading to an intense focus on human resources and diligence in cultural development."
+  },
+  {
+    "question": "What characterizes the relationship between Korean side dishes and rice?",
+    "options": [
+      "Side dishes are mild to complement rice",
+      "Side dishes are heavily spiced to balance bland rice",
+      "Rice is spiced to match side dishes",
+      "They are served separately"
+    ],
+    "correct": 1,
+    "explanation": "Korean side dishes are heavily spiced because they are eaten with rice, which is bland. This combination allows for a balanced meal where the strong flavors of the side dishes complement the neutral taste of rice."
+  },
+  {
+    "question": "How has modern technology affected Korean food culture?",
+    "options": [
+      "Increased home cooking",
+      "Led to more traditional practices",
+      "Created 'visual food' culture through social media",
+      "Reduced food variety"
+    ],
+    "correct": 2,
+    "explanation": "Modern technology, particularly social media, has created a 'visual food' culture where food is consumed not just physically but visually through social media, becoming a form of social capital rather than just sustenance."
+  },
+  {
+    "question": "How did the National Security Act affect daily social interactions in Korea?",
+    "options": [
+      "It encouraged political discussions",
+      "It restricted only formal political meetings",
+      "It made casual criticism of the president dangerous even in social settings",
+      "It only applied to media outlets"
+    ],
+    "correct": 2,
+    "explanation": "The National Security Act was so broad that it affected even casual social interactions, earning the nickname 'The Makgeolli Security Act' because people could be punished for criticizing the president while drinking makgeolli (Korean rice wine) after work."
+  },
+  {
+    "question": "What key factor distinguished Korean popular music's evolution in terms of production?",
+    "options": [
+      "Pure artistic development",
+      "Government sponsorship",
+      "Transition from natural formation to manufactured products",
+      "Focus on traditional music"
+    ],
+    "correct": 2,
+    "explanation": "Korean popular music evolved from naturally formed groups like Seo Taiji and the Boys to manufactured products like HOT, marking a shift from organic musical development to strategic entertainment production under companies like SM Productions."
+  },
+  {
+    "question": "How did Park Chung-Hee's trade relationship with Japan reflect his leadership style?",
+    "options": [
+      "He prioritized public opinion",
+      "He made unpopular but economically necessary decisions",
+      "He avoided all contact with Japan",
+      "He focused only on domestic trade"
+    ],
+    "correct": 1,
+    "explanation": "Park's decision to trade with Japan, despite intense public opposition due to colonial history, demonstrated his willingness to make unpopular but economically pragmatic decisions. This approach characterized his leadership style of prioritizing economic growth over public sentiment."
+  },
+  {
+    "question": "What was unique about the architectural design of Korean apartments built in the 70s-80s?",
+    "options": [
+      "Advanced ventilation systems",
+      "Sustainable materials",
+      "Load-bearing walls containing utilities",
+      "Modular construction methods"
+    ],
+    "correct": 2,
+    "explanation": "Apartments built in the 70s-80s used load-bearing walls that contained utilities like pipes and gas lines, a design choice made to speed construction but creating significant maintenance challenges as these walls couldn't be modified without compromising structural integrity."
+  },
+  {
+    "question": "How did the concept of 'visual food' emerge in modern Korean culture?",
+    "options": [
+      "Through traditional presentation methods",
+      "From restaurant marketing strategies",
+      "Through social media influence and social capital",
+      "From foreign culinary influences"
+    ],
+    "correct": 2,
+    "explanation": "The concept of 'visual food' emerged through social media's influence, where food became valued not just for consumption but as social capital, with emphasis on its visual appeal and shareability on social platforms."
+  },
+  {
+    "question": "What cultural shift led to the development of flavored soju?",
+    "options": [
+      "International market demand",
+      "Traditional preference evolution",
+      "Post-pandemic drinking culture changes among youth",
+      "Competition with other spirits"
+    ],
+    "correct": 2,
+    "explanation": "Flavored soju developed due to changing drinking habits among younger Koreans after the pandemic, when many never adopted traditional drinking culture. The product became primarily export-focused as domestic consumers, mainly older people, preferred traditional unflavored soju."
+  },
+  {
+    "question": "How did Rhee Syngman's understanding of democracy reflect Korea's transition period?",
+    "options": [
+      "He fully embraced Western democratic principles",
+      "He maintained purely traditional Korean governance",
+      "He created a hybrid of monarchy and democracy",
+      "He rejected both systems"
+    ],
+    "correct": 2,
+    "explanation": "Rhee Syngman's understanding of democracy reflected Korea's transition period as he created a hybrid system, combining democratic principles with monarchical elements, calling citizens 'subjects' and viewing himself as a symbolic father figure."
+  },
+  {
+    "question": "What characterized the relationship between Korean restaurants and side dishes?",
+    "options": [
+      "Pay-per-side-dish system",
+      "Weekly rotating selections",
+      "Free side dishes with consistent offerings",
+      "Customer-selected varieties"
+    ],
+    "correct": 2,
+    "explanation": "Korean restaurants traditionally provide free side dishes (banchan) with main dishes, maintaining consistency in the side dishes while varying the main dishes, reflecting the traditional Korean dining culture."
+  },
+  {
+    "question": "How did Korea's historical food preservation methods influence modern cuisine?",
+    "options": [
+      "Led to abandonment of traditional methods",
+      "Created regional taste differences between north and south",
+      "Resulted in simplified cooking techniques",
+      "Increased reliance on imports"
+    ],
+    "correct": 1,
+    "explanation": "Historical preservation needs created lasting regional differences in Korean cuisine, with southern regions developing saltier foods due to warmer climates requiring more preservation, while northern regions maintained blander flavors due to cooler preservation conditions."
+  },
+  {
+    "question": "What distinguished the construction of gi-wa-jib from cho-ga-jib?",
+    "options": [
+      "Size differences",
+      "Material availability",
+      "Required specialized skills versus communal building",
+      "Location requirements"
+    ],
+    "correct": 2,
+    "explanation": "Gi-wa-jib required specialized skills and techniques for construction, particularly in tile installation, while cho-ga-jib could be built through community cooperation without specialized expertise, reflecting different social and economic aspects of Korean society."
+  },
+  {
+    "question": "How did Korea's academic traditions influence modern education policies?",
+    "options": [
+      "They were completely abandoned",
+      "They led to decreased emphasis on education",
+      "They created strong support for mandatory education",
+      "They only affected private schools"
+    ],
+    "correct": 2,
+    "explanation": "Korea's historical reverence for academia and learning influenced strong public support for Rhee Syngman's mandatory education policy, with 99.9% compliance reflecting how the law aligned with deeply held cultural values about education."
+  },
+  {
+    "question": "What characterized the development of Korean pop culture speed?",
+    "options": [
+      "Slow, traditional development",
+      "Moderate, balanced pace",
+      "Rapid turnaround and quick production",
+      "Variable depending on genre"
+    ],
+    "correct": 2,
+    "explanation": "Korean pop culture became characterized by extremely rapid production and quick turnaround time, particularly after the integration of consumer-grade internet, leading to faster information refresh rates and content production."
+  },
+  {
+    "question": "How did the IMF intervention affect Korean national pride?",
+    "options": [
+      "It had no significant impact",
+      "It led to increased foreign investment",
+      "It triggered civilian gold donations to repay debt",
+      "It caused economic isolation"
+    ],
+    "correct": 2,
+    "explanation": "The IMF intervention triggered a strong nationalist response, with Korean civilians donating personal assets like jewelry to help the government repay IMF debts quickly and remove what was perceived as foreign control over their economy."
+  },
+  {
+    "question": "What unique aspect characterized Korean housing modernization?",
+    "options": [
+      "Gradual transition",
+      "Complete preservation of traditional structures",
+      "Selective preservation based on social status",
+      "Random development patterns"
+    ],
+    "correct": 2,
+    "explanation": "Korean housing modernization was characterized by selective preservation, where gi-wa-jib (tile-roofed houses) were preserved for their historical significance while cho-ga-jib (grass-roofed houses) were actively eliminated as symbols of poverty."
+  },
+  {
+    "question": "How did the structure of Korean meals reflect social organization?",
+    "options": [
+      "Individual portions for all items",
+      "Shared protein dish with individual carb sides",
+      "Complete separation of dishes",
+      "Random distribution"
+    ],
+    "correct": 1,
+    "explanation": "Korean meal structure, with one shared protein-rich dish and individual carb-rich side dishes, reflected both economic necessity and social organization, optimizing scarce protein resources while maintaining communal dining practices."
+  },
+  {
+    "question": "What role did universities play in Korean political activism?",
+    "options": [
+      "They were politically neutral",
+      "They served as centers of activism and potential threat",
+      "They supported government policies",
+      "They focused only on education"
+    ],
+    "correct": 1,
+    "explanation": "Universities served as crucial centers of political activism, recognized as such a potential threat that even dictatorial leaders like Park Chung-Hee were cautious about interfering with them, understanding their significance in Korean society."
+  },
+  {
+    "question": "How did Park Chung-Hee's economic policies affect social justice?",
+    "options": [
+      "They prioritized worker rights",
+      "They balanced growth and social justice",
+      "They sacrificed social justice for economic growth",
+      "They had no social impact"
+    ],
+    "correct": 2,
+    "explanation": "Park's 'Grow First, Fix Later' approach prioritized economic growth over social justice, with government and corporations working together while showing little concern for labor rights and social equity, creating long-term social implications."
+  },
+  {
+    "question": "What characterized the transformation of Korean family living spaces?",
+    "options": [
+      "Maintenance of traditional layouts",
+      "Shift from shared to individual spaces",
+      "Increased communal areas",
+      "Focus on outdoor spaces"
+    ],
+    "correct": 1,
+    "explanation": "Korean family living spaces transformed from traditional shared, multi-purpose rooms to individualized spaces with specific functions, reflecting the shift from multi-generational families to nuclear families and increased desire for privacy."
+  },
+  {
+    "question": "How did Korea's food preservation needs influence its culinary development?",
+    "options": [
+      "Led to simplified cooking methods",
+      "Created uniform national cuisine",
+      "Developed distinct regional flavors based on climate",
+      "Reduced variety in dishes"
+    ],
+    "correct": 2,
+    "explanation": "Korea's food preservation needs, influenced by regional climate differences, led to distinct culinary developments with southern regions developing saltier, more preserved foods due to warmer weather, while northern regions maintained milder flavors due to cooler preservation conditions."
+  },
+  {
+    "question": "What distinguished HOT's formation from previous Korean music groups?",
+    "options": [
+      "Spontaneous formation",
+      "Focus on traditional music",
+      "Strategic manufacturing as a product",
+      "International recruitment"
+    ],
+    "correct": 2,
+    "explanation": "HOT's formation marked a shift in Korean music as they were deliberately created as a product by SM Productions, unlike previous groups like Seo Taiji and the Boys who formed naturally, establishing the template for manufactured K-pop groups."
+  },
+  {
+    "question": "How did Japanese colonization permanently alter Korean society?",
+    "options": [
+      "Only affected economic structures",
+      "Created lasting changes in governance, resources, and modernization approaches",
+      "Had no long-term impact",
+      "Only influenced language"
+    ],
+    "correct": 1,
+    "explanation": "Japanese colonization fundamentally changed Korean society by destroying the royal bloodline, stripping natural resources, introducing Western-style modernization through Japanese filter, and creating lasting social and political structures that influenced post-colonial development."
+  },
+  {
+    "question": "How did the Korean War shape the relationship between education and political awareness?",
+    "options": [
+      "Decreased interest in education",
+      "Created generational differences in understanding democracy",
+      "Had no effect on education",
+      "Only affected military education"
+    ],
+    "correct": 1,
+    "explanation": "The Korean War and subsequent political changes created distinct generational differences in political awareness, particularly through mandatory education which produced Baby Boomers who understood democracy better than their parents, ultimately affecting political movements and governance."
+  },
+  {
+    "question": "What distinguished the generational understanding of democracy in post-war Korea?",
+    "options": [
+      "All generations had equal understanding",
+      "Older generations were more democratic",
+      "Baby Boomers gained systematic understanding through education while their parents did not",
+      "Only the elite understood democracy"
+    ],
+    "correct": 2,
+    "explanation": "The Greatest Generation lacked formal education about democracy, while their children (Baby Boomers) received mandatory education that gave them systematic understanding of democratic principles, creating a generational gap in political awareness and eventually leading to increased opposition to authoritarian rule."
   }
 ]

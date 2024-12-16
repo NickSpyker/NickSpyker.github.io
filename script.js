@@ -99,7 +99,7 @@ class KoreanStudiesQuiz {
     }
 
     // Show feedback message
-    this.feedbackText.textContent = isCorrect ? 'Correct!' : this.questions[this.currentQuestionIndex].explanation;
+    this.feedbackText.textContent = this.questions[this.currentQuestionIndex].explanation;
 
     this.updateScore();
   }

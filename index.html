@@ -2,7 +2,14 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=5.0"
+    />
+    <meta
+      name="description"
+      content="Interactive quiz application with dynamic questions"
+    />
     <title>Quiz</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
@@ -21,11 +28,11 @@
           <div class="stats">
             <div class="stat-item">
               <span class="stat-icon">📊</span>
-              <span id="progress-text">Question 1 / 5</span>
+              <span id="progress-text">Question ? / ?</span>
             </div>
             <div class="stat-item">
               <span class="stat-icon">⭐</span>
-              <span id="score-text">Score: 0 / 5</span>
+              <span id="score-text">Score: ? / ?</span>
             </div>
           </div>
         </div>
@@ -55,8 +62,8 @@
 
           <div class="score-display">
             <div class="score-circle">
-              <div class="score-value" id="final-score">0 / 5</div>
-              <div class="score-label">Final Score</div>
+              <div class="score-value">? / ?</div>
+              <div class="score-label">?%</div>
             </div>
           </div>
 

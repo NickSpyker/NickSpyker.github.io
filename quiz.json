@@ -1,27 +1,497 @@
 [
   {
-    "question": "What is the capital of France?",
-    "options": ["London", "Berlin", "Paris", "Madrid"],
-    "answer": "Paris"
+    "question": "Which type of breathing is characterized by deep and noisy inspiration followed by a pause, and prolonged expiration followed again by a pause, often seen in diabetic ketoacidosis?",
+    "options": [
+      "Cheyne-Stokes breathing",
+      "Biot breathing",
+      "Kussmaul breathing",
+      "Apneustic breathing"
+    ],
+    "answer": "Kussmaul breathing"
   },
   {
-    "question": "Which organ filters blood in the human body?",
-    "options": ["Heart", "Kidney", "Lung", "Stomach"],
-    "answer": "Kidney"
+    "question": "What is the primary cause of 'absolute' polycythemia?",
+    "options": [
+      "Dehydration",
+      "Long-term increase in erythrocytes due to hypoxia or neoplasia",
+      "Acute hemorrhage",
+      "Excessive water intake"
+    ],
+    "answer": "Long-term increase in erythrocytes due to hypoxia or neoplasia"
   },
   {
-    "question": "In what year did World War I begin?",
-    "options": ["1914", "1918", "1939", "1945"],
-    "answer": "1914"
+    "question": "Which type of urinary cast is composed of pure protein precipitates and can occur with fever or exercise?",
+    "options": [
+      "Granular casts",
+      "Waxy casts",
+      "Hyaline casts",
+      "Cellular casts"
+    ],
+    "answer": "Hyaline casts"
   },
   {
-    "question": "What is the largest planet in our solar system?",
-    "options": ["Mars", "Jupiter", "Saturn", "Neptune"],
-    "answer": "Jupiter"
+    "question": "Bulimia is considered a symptom in which category of diseases?",
+    "options": [
+      "Metabolic diseases",
+      "Nervous diseases",
+      "Digestive diseases",
+      "Respiratory diseases"
+    ],
+    "answer": "Nervous diseases"
   },
   {
-    "question": "Who painted the Mona Lisa?",
-    "options": ["Van Gogh", "Picasso", "Leonardo da Vinci", "Michelangelo"],
-    "answer": "Leonardo da Vinci"
+    "question": "What is the consequence of 'Simple Hypervolemia' (normal hematocrit)?",
+    "options": [
+      "Hypotension and bradycardia",
+      "Hypertension and irregular pulse",
+      "Hemoconcentration",
+      "Decreased peripheral resistance"
+    ],
+    "answer": "Hypertension and irregular pulse"
+  },
+  {
+    "question": "Which respiratory disorder is defined as the collapse of the lung consecutive to bronchial obstruction or compression?",
+    "options": [
+      "Pulmonary Emphysema",
+      "Pulmonary Edema",
+      "Pulmonary Atelectasis",
+      "Asthma"
+    ],
+    "answer": "Pulmonary Atelectasis"
+  },
+  {
+    "question": "In the context of renal failure, what does 'oliguria' refer to?",
+    "options": [
+      "Excessive urine production",
+      "Presence of blood in urine",
+      "Reduced urine output",
+      "Painful urination"
+    ],
+    "answer": "Reduced urine output"
+  },
+  {
+    "question": "What characterizes 'Biot breathing'?",
+    "options": [
+      "Regular deep breaths",
+      "Irregular succession of hyperpnea and apnea periods",
+      "Cycles of gradually increasing and decreasing depth of respiration",
+      "Prolonged inspiratory spasms"
+    ],
+    "answer": "Irregular succession of hyperpnea and apnea periods"
+  },
+  {
+    "question": "Which anemia is characterized by 'microcytic' red blood cells?",
+    "options": [
+      "Vitamin B12 deficiency anemia",
+      "Iron deficiency anemia",
+      "Aplastic anemia",
+      "Hemolytic anemia"
+    ],
+    "answer": "Iron deficiency anemia"
+  },
+  {
+    "question": "What is the main cause of 'renal angiospasms' leading to oliguria?",
+    "options": [
+      "Passive renal congestion",
+      "Irritation causing abdominal pain or toxic states",
+      "Glomerular hyperfiltration",
+      "Excessive fluid intake"
+    ],
+    "answer": "Irritation causing abdominal pain or toxic states"
+  },
+  {
+    "question": "Enterotoxaemia may be due to:",
+    "options": [
+      "Ingestion of toxic plants",
+      "Absorption of toxins produced by anaerobic germs or parasites",
+      "Viral infection of the stomach",
+      "Excessive gastric acid secretion"
+    ],
+    "answer": "Absorption of toxins produced by anaerobic germs or parasites"
+  },
+  {
+    "question": "Which blood disorder is characterized by a decrease in all blood components (oligemia, hypoproteinemia) following vascular rupture?",
+    "options": [
+      "Post hemorrhagic anemia",
+      "Hemolytic anemia",
+      "Aplastic anemia",
+      "Megaloblastic anemia"
+    ],
+    "answer": "Post hemorrhagic anemia"
+  },
+  {
+    "question": "What is the specific gravity (density) change observed in 'hyposthenuria'?",
+    "options": [
+      "Increased urine density",
+      "Decreased urine density",
+      "Fixed urine density",
+      "Normal urine density"
+    ],
+    "answer": "Decreased urine density"
+  },
+  {
+    "question": "Cheyne-Stokes breathing is physiologically observed in which population?",
+    "options": [
+      "Individuals living at high altitude",
+      "Patients with diabetic coma",
+      "Patients with meningitis",
+      "Newborns with asthma"
+    ],
+    "answer": "Individuals living at high altitude"
+  },
+  {
+    "question": "Which crystals are commonly found in the urine of cats and may be pathologic, though they are non-pathologic in dogs?",
+    "options": [
+      "Calcium oxalate",
+      "Struvite",
+      "Cystine",
+      "Ammonium acid urate"
+    ],
+    "answer": "Struvite"
+  },
+  {
+    "question": "What is the definition of 'Leukopenia'?",
+    "options": [
+      "Increased number of white blood cells",
+      "Decreased number of circulating leukocytes under physiological limits",
+      "Abnormal shape of leukocytes",
+      "Presence of immature leukocytes in blood"
+    ],
+    "answer": "Decreased number of circulating leukocytes under physiological limits"
+  },
+  {
+    "question": "Gastric hyperacidity typically causes:",
+    "options": [
+      "Accelerated gastric transit and diarrhea",
+      "Prolonged gastric transit and constipation",
+      "Decreased intestinal peristalsis",
+      "Vomiting and fever"
+    ],
+    "answer": "Accelerated gastric transit and diarrhea"
+  },
+  {
+    "question": "Which type of leukemia is characterized by increased numbers of myelocytes and metamyelocytes with reduced functional capacity?",
+    "options": [
+      "Lymphoid leukemia",
+      "Myeloid leukemia",
+      "Monocytic leukemia",
+      "Erythroid leukemia"
+    ],
+    "answer": "Myeloid leukemia"
+  },
+  {
+    "question": "What is the primary mechanism of 'Non-allergenic asthma'?",
+    "options": [
+      "IgE production by lymphocytes",
+      "Vagus nerve stimulation via irritating agents",
+      "Mast cell degranulation by allergens",
+      "Antibody-antigen complex deposition"
+    ],
+    "answer": "Vagus nerve stimulation via irritating agents"
+  },
+  {
+    "question": "Which of the following causes 'Precapillary' pulmonary hypertension?",
+    "options": [
+      "Left heart failure",
+      "Thromboembolism or altitude sickness",
+      "Mitral valve stenosis",
+      "Aortic regurgitation"
+    ],
+    "answer": "Thromboembolism or altitude sickness"
+  },
+  {
+    "question": "Which coagulation disorder is caused by a deficiency in Vitamin K?",
+    "options": [
+      "Coagulopathy by deficit of thromboplastin formation",
+      "Coagulopathy by affecting thrombin formation",
+      "Coagulopathy by affecting fibrin formation",
+      "Disseminated Intravascular Coagulation (DIC)"
+    ],
+    "answer": "Coagulopathy by affecting thrombin formation"
+  },
+  {
+    "question": "A 'Mechanical ileus' is typically followed by:",
+    "options": [
+      "Metabolic alkalosis",
+      "Submucosal stasis edema, ischemic infarction, and necrosis",
+      "Hypersecretion of intestinal glands",
+      "Increased intestinal motility"
+    ],
+    "answer": "Submucosal stasis edema, ischemic infarction, and necrosis"
+  },
+  {
+    "question": "What indicates 'Hemoglobinuria'?",
+    "options": [
+      "Presence of intact RBCs in urine",
+      "Dark brown to black urine due to intravascular hemolysis",
+      "Milky urine due to lipids",
+      "Green urine due to bile"
+    ],
+    "answer": "Dark brown to black urine due to intravascular hemolysis"
+  },
+  {
+    "question": "Which condition leads to 'Relative Polycythemia'?",
+    "options": [
+      "High altitude",
+      "Bone marrow tumor",
+      "Dehydration or hemoconcentration",
+      "Chronic lung disease"
+    ],
+    "answer": "Dehydration or hemoconcentration"
+  },
+  {
+    "question": "What is 'Anisocytosis'?",
+    "options": [
+      "Variation in RBC color",
+      "Variation in RBC shape",
+      "Existence of RBC population with various sizes/ages",
+      "Presence of nuclei in RBCs"
+    ],
+    "answer": "Existence of RBC population with various sizes/ages"
+  },
+  {
+    "question": "Hepatic coma is characterized by which biochemical change in the brain?",
+    "options": [
+      "Decreased NH3",
+      "Increased NH3 in muscle, brain and CSF",
+      "Increased oxygen affinity",
+      "Hypoglycemia"
+    ],
+    "answer": "Increased NH3 in muscle, brain and CSF"
+  },
+  {
+    "question": "Which stage of the 'Leukocyte reaction' is characterized by monocytosis and neutropenia?",
+    "options": [
+      "Neutrophilic phase",
+      "Monocyte phase",
+      "Healing phase",
+      "Initial phase"
+    ],
+    "answer": "Monocyte phase"
+  },
+  {
+    "question": "What is the effect of 'Hypoalbuminemia' on capillary dynamics?",
+    "options": [
+      "Increases oncotic pressure",
+      "Reduces oncotic pressure causing edema",
+      "Increases hydrostatic pressure",
+      "Causes dehydration"
+    ],
+    "answer": "Reduces oncotic pressure causing edema"
+  },
+  {
+    "question": "What does an 'Oesophageal diverticulum' represent?",
+    "options": [
+      "A narrowing of the esophagus",
+      "A pocket dilatation of the esophagus",
+      "An inflammation of the esophagus",
+      "A tumor of the esophagus"
+    ],
+    "answer": "A pocket dilatation of the esophagus"
+  },
+  {
+    "question": "Which renal failure stage results in 'Uremia' and 'Hyperkalemia'?",
+    "options": [
+      "Early stage CKD",
+      "Polyuric phase",
+      "Oliguric phase (AKI or final CKD)",
+      "Compensation phase"
+    ],
+    "answer": "Oliguric phase (AKI or final CKD)"
+  },
+  {
+    "question": "What is 'Thrombocytopenia'?",
+    "options": [
+      "Increased platelet count",
+      "Decreased platelet count",
+      "Dysfunctional platelets",
+      "Increased clotting factors"
+    ],
+    "answer": "Decreased platelet count"
+  },
+  {
+    "question": "Which urine crystal suggests liver disease?",
+    "options": [
+      "Calcium oxalate",
+      "Triple phosphate",
+      "Ammonium acid urate",
+      "Cystine"
+    ],
+    "answer": "Ammonium acid urate"
+  },
+  {
+    "question": "What is the cause of 'Pulmonary Emphysema'?",
+    "options": [
+      "Bacterial infection",
+      "Excessive accumulation of air with alveolar expansion and destruction",
+      "Fluid in the alveoli",
+      "Constriction of bronchioles"
+    ],
+    "answer": "Excessive accumulation of air with alveolar expansion and destruction"
+  },
+  {
+    "question": "Hypervolemia with 'decreased hematocrit' (Oligocythemic hypervolemia) is observed in:",
+    "options": [
+      "High altitude",
+      "Renal disease with fluid retention",
+      "Chronic hypoxia",
+      "Dehydration"
+    ],
+    "answer": "Renal disease with fluid retention"
+  },
+  {
+    "question": "What is 'Drepanocytosis'?",
+    "options": [
+      "Star-shaped RBCs",
+      "Sickle-shaped RBCs with abnormal oxygen carrying",
+      "Spherical RBCs",
+      "Fragmented RBCs"
+    ],
+    "answer": "Sickle-shaped RBCs with abnormal oxygen carrying"
+  },
+  {
+    "question": "The 'Vagotonic intestinal cramp' is the pathophysiological basis for:",
+    "options": ["Colic", "Heartburn", "Gastralgia", "Vomiting"],
+    "answer": "Colic"
+  },
+  {
+    "question": "Which type of anemia is caused by a lack of Vitamin B12?",
+    "options": [
+      "Microcytic anemia",
+      "Macrocytic (Megaloblastic) anemia",
+      "Normocytic anemia",
+      "Aplastic anemia"
+    ],
+    "answer": "Macrocytic (Megaloblastic) anemia"
+  },
+  {
+    "question": "What is the significance of 'Waxy casts' in urine sediment?",
+    "options": [
+      "Acute infection",
+      "Degeneration of granular casts indicating chronic disease",
+      "Kidney stones",
+      "Normal finding"
+    ],
+    "answer": "Degeneration of granular casts indicating chronic disease"
+  },
+  {
+    "question": "Which hormone insufficiency leads to 'Polyuria'?",
+    "options": [
+      "Aldosterone",
+      "ADH (Antidiuretic Hormone)",
+      "Thyroid hormone",
+      "Insulin"
+    ],
+    "answer": "ADH (Antidiuretic Hormone)"
+  },
+  {
+    "question": "Severe hepatic impairment is characterized by:",
+    "options": [
+      "Mild lesions",
+      "Severe lesions with obvious and intense clinical manifestations",
+      "Inapparent manifestations",
+      "Normal blood values"
+    ],
+    "answer": "Severe lesions with obvious and intense clinical manifestations"
+  },
+  {
+    "question": "What is 'Hypochromia' in Red Blood Cells?",
+    "options": [
+      "RBCs are more colorful than normal",
+      "RBCs are less colorful and ring-shaped",
+      "RBCs have blue tint",
+      "RBCs are fragmented"
+    ],
+    "answer": "RBCs are less colorful and ring-shaped"
+  },
+  {
+    "question": "Which condition causes 'Pneumothorax'?",
+    "options": [
+      "Air accumulation in the pleural cavity",
+      "Fluid accumulation in the lungs",
+      "Blood in the pleural cavity",
+      "Collapse of alveoli"
+    ],
+    "answer": "Air accumulation in the pleural cavity"
+  },
+  {
+    "question": "What is 'Thrombasthenia'?",
+    "options": [
+      "Low platelet count",
+      "High platelet count",
+      "Functional disturbance of platelets (loss of agglutination)",
+      "Lack of fibrinogen"
+    ],
+    "answer": "Functional disturbance of platelets (loss of agglutination)"
+  },
+  {
+    "question": "Which factor is NOT a cause of 'Renal Failure'?",
+    "options": [
+      "Prerenal (e.g., shock, dehydration)",
+      "Renal (e.g., toxins, infection)",
+      "Post-renal (e.g., calculi)",
+      "Hyperventilation"
+    ],
+    "answer": "Hyperventilation"
+  },
+  {
+    "question": "Gastric hypersecretion is characterized by:",
+    "options": [
+      "Presence of HCl outside digestive phase with small pepsin variation",
+      "Absence of HCl",
+      "Decrease in HCl during digestion",
+      "Large variation of pepsin"
+    ],
+    "answer": "Presence of HCl outside digestive phase with small pepsin variation"
+  },
+  {
+    "question": "What does 'Anuria' mean?",
+    "options": [
+      "Excessive urination",
+      "Complete cessation or very low urine output",
+      "Painful urination",
+      "Nighttime urination"
+    ],
+    "answer": "Complete cessation or very low urine output"
+  },
+  {
+    "question": "What defines 'Leukocytosis'?",
+    "options": [
+      "Decrease in WBC",
+      "Increase in WBC number/mm3",
+      "Decrease in RBC",
+      "Increase in Platelets"
+    ],
+    "answer": "Increase in WBC number/mm3"
+  },
+  {
+    "question": "Which type of hypoxia is caused by cyanide poisoning stopping the respiratory chain?",
+    "options": [
+      "External hypoxia",
+      "Internal (histotoxic) hypoxia",
+      "Transport hypoxia",
+      "Anemic hypoxia"
+    ],
+    "answer": "Internal (histotoxic) hypoxia"
+  },
+  {
+    "question": "In urine analysis, what does the presence of 'Bilirubinuria' indicate?",
+    "options": [
+      "Kidney infection",
+      "Liver disease or hemolysis",
+      "Diabetes mellitus",
+      "Muscle trauma"
+    ],
+    "answer": "Liver disease or hemolysis"
+  },
+  {
+    "question": "What is the cause of 'Osteodystrophy' in chronic renal failure?",
+    "options": [
+      "Secondary hyperparathyroidism",
+      "Vitamin A deficiency",
+      "Excessive calcium intake",
+      "Lack of exercise"
+    ],
+    "answer": "Secondary hyperparathyroidism"
   }
 ]

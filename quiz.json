@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["London", "Berlin", "Paris", "Madrid"],
+    "answer": "Paris"
+  },
+  {
+    "question": "Which organ filters blood in the human body?",
+    "options": ["Heart", "Kidney", "Lung", "Stomach"],
+    "answer": "Kidney"
+  },
+  {
+    "question": "In what year did World War I begin?",
+    "options": ["1914", "1918", "1939", "1945"],
+    "answer": "1914"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Mars", "Jupiter", "Saturn", "Neptune"],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Van Gogh", "Picasso", "Leonardo da Vinci", "Michelangelo"],
+    "answer": "Leonardo da Vinci"
+  }
+]

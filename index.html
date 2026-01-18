@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Quiz</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div id="loading">Loading quiz...</div>
+
+      <div id="quiz-interface" class="hidden">
+        <div class="stats">
+          <span id="progress-text"></span>
+          <span id="score-text"></span>
+        </div>
+        <div class="question-box" id="question-text"></div>
+        <div class="options-grid" id="options-container"></div>
+        <button id="next-btn" class="next-btn">Next Question →</button>
+      </div>
+
+      <div id="result-interface" class="hidden">
+        <h1>Quiz Completed!</h1>
+        <p>Your final score: <strong id="final-score"></strong></p>
+        <p id="feedback-message"></p>
+        <div class="result-actions">
+          <button class="action-btn" id="restart-full-btn">
+            Start Over
+          </button>
+          <button class="action-btn" id="retry-mistakes-btn">
+            Review my mistakes
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <script src="app.js" defer></script>
+  </body>
+</html>

@@ -8,33 +8,74 @@
   </head>
   <body>
     <div class="container">
-      <div id="loading">Loading quiz...</div>
-
-      <div id="quiz-interface" class="hidden">
-        <div class="stats">
-          <span id="progress-text"></span>
-          <span id="score-text"></span>
-        </div>
-        <div class="question-box" id="question-text"></div>
-        <div class="options-grid" id="options-container"></div>
-        <button id="next-btn" class="next-btn">Next Question →</button>
+      <!-- Loading State -->
+      <div id="loading" class="loading-spinner">
+        <div class="spinner"></div>
+        <p>Loading quiz...</p>
       </div>
 
+      <!-- Quiz Interface -->
+      <div id="quiz-interface" class="hidden">
+        <div class="header">
+          <h1>🎯 Quiz</h1>
+          <div class="stats">
+            <div class="stat-item">
+              <span class="stat-icon">📊</span>
+              <span id="progress-text">Question 1 / 5</span>
+            </div>
+            <div class="stat-item">
+              <span class="stat-icon">⭐</span>
+              <span id="score-text">Score: 0 / 5</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="progress-bar">
+          <div id="progress-fill" class="progress-fill"></div>
+        </div>
+
+        <div class="question-card">
+          <div class="question-number" id="question-number">Question 1</div>
+          <div class="question-box" id="question-text"></div>
+        </div>
+
+        <div class="options-grid" id="options-container"></div>
+
+        <button id="next-btn" class="next-btn">
+          Next Question
+          <span class="arrow">→</span>
+        </button>
+      </div>
+
+      <!-- Result Interface -->
       <div id="result-interface" class="hidden">
-        <h1>Quiz Completed!</h1>
-        <p>Your final score: <strong id="final-score"></strong></p>
-        <p id="feedback-message"></p>
-        <div class="result-actions">
-          <button class="action-btn" id="restart-full-btn">
-            Start Over
-          </button>
-          <button class="action-btn" id="retry-mistakes-btn">
-            Review my mistakes
-          </button>
+        <div class="result-card">
+          <div class="trophy-icon">🏆</div>
+          <h1>Quiz Completed!</h1>
+
+          <div class="score-display">
+            <div class="score-circle">
+              <div class="score-value" id="final-score">0 / 5</div>
+              <div class="score-label">Final Score</div>
+            </div>
+          </div>
+
+          <p class="feedback-message" id="feedback-message"></p>
+
+          <div class="result-actions">
+            <button class="action-btn primary-btn" id="restart-full-btn">
+              <span class="btn-icon">🔄</span>
+              Start Over
+            </button>
+            <button class="action-btn secondary-btn" id="retry-mistakes-btn">
+              <span class="btn-icon">📝</span>
+              Review Mistakes
+            </button>
+          </div>
         </div>
       </div>
     </div>
 
-    <script src="app.js" defer></script>
+    <script src="app.js"></script>
   </body>
 </html>

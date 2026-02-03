@@ -1,497 +1,919 @@
 [
   {
-    "question": "Which type of breathing is characterized by deep and noisy inspiration followed by a pause, and prolonged expiration followed again by a pause, often seen in diabetic ketoacidosis?",
+    "question": "Pharmacology is the science that deals with the study of medicinal products in terms of:",
     "options": [
-      "Cheyne-Stokes breathing",
-      "Biot breathing",
-      "Kussmaul breathing",
-      "Apneustic breathing"
+      "origin",
+      "physical structure",
+      "kinetics and their action",
+      "toxicity"
     ],
-    "answer": "Kussmaul breathing"
+    "answer": "kinetics and their action"
   },
   {
-    "question": "What is the primary cause of 'absolute' polycythemia?",
+    "question": "The allopathic principle was introduced by:",
     "options": [
-      "Dehydration",
-      "Long-term increase in erythrocytes due to hypoxia or neoplasia",
-      "Acute hemorrhage",
-      "Excessive water intake"
+      "Euphrast",
+      "Hahnemann",
+      "Hippocrates",
+      "Galenos",
+      "Paracelsus"
     ],
-    "answer": "Long-term increase in erythrocytes due to hypoxia or neoplasia"
+    "answer": "Hahnemann"
   },
   {
-    "question": "Which type of urinary cast is composed of pure protein precipitates and can occur with fever or exercise?",
+    "question": "The principles of homeopathy are the:",
     "options": [
-      "Granular casts",
-      "Waxy casts",
-      "Hyaline casts",
-      "Cellular casts"
+      "principle of complementarity",
+      "principle of similarity",
+      "principle of infinitesimal doses",
+      "principle of individualised treatment",
+      "principle of substituted dosage"
     ],
-    "answer": "Hyaline casts"
+    "answer": "principle of similarity"
   },
   {
-    "question": "Bulimia is considered a symptom in which category of diseases?",
+    "question": "Pharmacognosy deals with:",
     "options": [
-      "Metabolic diseases",
-      "Nervous diseases",
-      "Digestive diseases",
-      "Respiratory diseases"
+      "synthesis and chemical structure of the drugs, knowledge of drugs from which medicinal substances are extracted",
+      "the main therapeutic characteristics",
+      "the effect of drug on laboratory animals or isolated organs"
     ],
-    "answer": "Nervous diseases"
+    "answer": "synthesis and chemical structure of the drugs, knowledge of drugs from which medicinal substances are extracted"
   },
   {
-    "question": "What is the consequence of 'Simple Hypervolemia' (normal hematocrit)?",
+    "question": "Clinical pharmacodynamics aims the effect of medicines:",
     "options": [
-      "Hypotension and bradycardia",
-      "Hypertension and irregular pulse",
-      "Hemoconcentration",
-      "Decreased peripheral resistance"
+      "during treatment",
+      "on laboratory animals or isolated organs"
     ],
-    "answer": "Hypertension and irregular pulse"
+    "answer": "during treatment"
   },
   {
-    "question": "Which respiratory disorder is defined as the collapse of the lung consecutive to bronchial obstruction or compression?",
+    "question": "Pharmacokinetics is the pharmacology branch that deals with the:",
     "options": [
-      "Pulmonary Emphysema",
-      "Pulmonary Edema",
-      "Pulmonary Atelectasis",
-      "Asthma"
+      "study of drug circulation in organism",
+      "temporal alterations- dose relation",
+      "physico - chemical properties of drugs"
     ],
-    "answer": "Pulmonary Atelectasis"
+    "answer": "study of drug circulation in organism"
   },
   {
-    "question": "In the context of renal failure, what does 'oliguria' refer to?",
+    "question": "Pharmacokinetics sub-branches are:",
     "options": [
-      "Excessive urine production",
-      "Presence of blood in urine",
-      "Reduced urine output",
-      "Painful urination"
+      "invasion",
+      "coupling",
+      "evasion"
     ],
-    "answer": "Reduced urine output"
+    "answer": "no answer"
   },
   {
-    "question": "What characterizes 'Biot breathing'?",
+    "question": "Invasion phase includes:",
     "options": [
-      "Regular deep breaths",
-      "Irregular succession of hyperpnea and apnea periods",
-      "Cycles of gradually increasing and decreasing depth of respiration",
-      "Prolonged inspiratory spasms"
+      "drugs absorption",
+      "drugs metabolism",
+      "drugs distribution",
+      "drugs disposal"
     ],
-    "answer": "Irregular succession of hyperpnea and apnea periods"
+    "answer": "drugs absorption"
   },
   {
-    "question": "Which anemia is characterized by 'microcytic' red blood cells?",
+    "question": "Pharmacometry studies the:",
     "options": [
-      "Vitamin B12 deficiency anemia",
-      "Iron deficiency anemia",
-      "Aplastic anemia",
-      "Hemolytic anemia"
+      "effect of medicines during treatment",
+      "movement of drug within the body",
+      "measurements of drugs’ effect intensity"
     ],
-    "answer": "Iron deficiency anemia"
+    "answer": "measurements of drugs’ effect intensity"
   },
   {
-    "question": "What is the main cause of 'renal angiospasms' leading to oliguria?",
+    "question": "Therapeutic efficacy of drugs on affections is dealt by:",
     "options": [
-      "Passive renal congestion",
-      "Irritation causing abdominal pain or toxic states",
-      "Glomerular hyperfiltration",
-      "Excessive fluid intake"
+      "pharmacodynamics",
+      "pharmacokinetics",
+      "clinical pharmacology",
+      "pharmacometry"
     ],
-    "answer": "Irritation causing abdominal pain or toxic states"
+    "answer": "clinical pharmacology"
   },
   {
-    "question": "Enterotoxaemia may be due to:",
+    "question": "Pharmacogenetics deals with the:",
     "options": [
-      "Ingestion of toxic plants",
-      "Absorption of toxins produced by anaerobic germs or parasites",
-      "Viral infection of the stomach",
-      "Excessive gastric acid secretion"
+      "prescribing and preparing medicinal forms",
+      "study of drugs chronic or acute toxicity",
+      "correlation between: activity of intracellular biochemical substances and components"
     ],
-    "answer": "Absorption of toxins produced by anaerobic germs or parasites"
+    "answer": "correlation between: activity of intracellular biochemical substances and components"
   },
   {
-    "question": "Which blood disorder is characterized by a decrease in all blood components (oligemia, hypoproteinemia) following vascular rupture?",
+    "question": "Pharmacogenetics deals with:",
     "options": [
-      "Post hemorrhagic anemia",
-      "Hemolytic anemia",
-      "Aplastic anemia",
-      "Megaloblastic anemia"
+      "the study of drugs chronic or acute toxicity",
+      "the drug influence on genetic factors",
+      "the correlations between the enzymatic activity and genome"
     ],
-    "answer": "Post hemorrhagic anemia"
+    "answer": "the correlations between the enzymatic activity and genome"
   },
   {
-    "question": "What is the specific gravity (density) change observed in 'hyposthenuria'?",
+    "question": "Molecular pharmacology establishes correlations between:",
     "options": [
-      "Increased urine density",
-      "Decreased urine density",
-      "Fixed urine density",
-      "Normal urine density"
+      "the activity of intracellular biochemical substances and components",
+      "drug side effects",
+      "synthesis and chemical structure of the active substances"
     ],
-    "answer": "Decreased urine density"
+    "answer": "the activity of intracellular biochemical substances and components"
   },
   {
-    "question": "Cheyne-Stokes breathing is physiologically observed in which population?",
+    "question": "Molecular pharmacology establishes correlations between:",
     "options": [
-      "Individuals living at high altitude",
-      "Patients with diabetic coma",
-      "Patients with meningitis",
-      "Newborns with asthma"
+      "adverse effects of drugs",
+      "synthesis and chemical structure of the active substances",
+      "effect of medicines on humans and animals"
     ],
-    "answer": "Individuals living at high altitude"
+    "answer": "synthesis and chemical structure of the active substances"
   },
   {
-    "question": "Which crystals are commonly found in the urine of cats and may be pathologic, though they are non-pathologic in dogs?",
+    "question": "Bioavailability refers to:",
     "options": [
-      "Calcium oxalate",
-      "Struvite",
-      "Cystine",
-      "Ammonium acid urate"
+      "how the substance is released from the drug form",
+      "elements which determine the absorption and diffusion of substances",
+      "correlations established between the activity of biochemical substances and components"
     ],
-    "answer": "Struvite"
+    "answer": "elements which determine the absorption and diffusion of substances"
   },
   {
-    "question": "What is the definition of 'Leukopenia'?",
+    "question": "Biopharmacy deals with:",
     "options": [
-      "Increased number of white blood cells",
-      "Decreased number of circulating leukocytes under physiological limits",
-      "Abnormal shape of leukocytes",
-      "Presence of immature leukocytes in blood"
+      "the release way of active substances",
+      "relations between physico - chemical properties of active substances",
+      "form preparation and drug administration",
+      "pharmacokinetic parameters and their effects"
     ],
-    "answer": "Decreased number of circulating leukocytes under physiological limits"
+    "answer": "pharmacokinetic parameters and their effects"
   },
   {
-    "question": "Gastric hyperacidity typically causes:",
+    "question": "The first phase of dissolution of the tablets:",
     "options": [
-      "Accelerated gastric transit and diarrhea",
-      "Prolonged gastric transit and constipation",
-      "Decreased intestinal peristalsis",
-      "Vomiting and fever"
+      "disaggregating",
+      "disintegration",
+      "spraying"
     ],
-    "answer": "Accelerated gastric transit and diarrhea"
+    "answer": "disintegration"
   },
   {
-    "question": "Which type of leukemia is characterized by increased numbers of myelocytes and metamyelocytes with reduced functional capacity?",
+    "question": "The first stage of dissolution of capsules is:",
     "options": [
-      "Lymphoid leukemia",
-      "Myeloid leukemia",
-      "Monocytic leukemia",
-      "Erythroid leukemia"
+      "disintegration",
+      "disaggregation"
     ],
-    "answer": "Myeloid leukemia"
+    "answer": "disintegration"
   },
   {
-    "question": "What is the primary mechanism of 'Non-allergenic asthma'?",
+    "question": "A drug is:",
     "options": [
-      "IgE production by lymphocytes",
-      "Vagus nerve stimulation via irritating agents",
-      "Mast cell degranulation by allergens",
-      "Antibody-antigen complex deposition"
+      "a substance of vegetable, animal or synthetic origin entering the body's metabolism and being strictly necessary",
+      "a substance that introduced into the body produces general disorder"
     ],
-    "answer": "Vagus nerve stimulation via irritating agents"
+    "answer": "a substance that introduced into the body produces general disorder"
   },
   {
-    "question": "Which of the following causes 'Precapillary' pulmonary hypertension?",
+    "question": "A drug is a substance:",
     "options": [
-      "Left heart failure",
-      "Thromboembolism or altitude sickness",
-      "Mitral valve stenosis",
-      "Aortic regurgitation"
+      "used in diagnosis, treatment, mitigation or prevention of a disease",
+      "of vegetable, animal or synthetic origin entering the body's metabolism being necessary"
     ],
-    "answer": "Thromboembolism or altitude sickness"
+    "answer": "used in diagnosis, treatment, mitigation or prevention of a disease"
   },
   {
-    "question": "Which coagulation disorder is caused by a deficiency in Vitamin K?",
+    "question": "A drug is able to:",
     "options": [
-      "Coagulopathy by deficit of thromboplastin formation",
-      "Coagulopathy by affecting thrombin formation",
-      "Coagulopathy by affecting fibrin formation",
-      "Disseminated Intravascular Coagulation (DIC)"
+      "make it possible to recognize, remove, ease or prevent symptoms",
+      "make it possible to recognize or influence organic structures, functions or behavior typology",
+      "to be a plastic source and reserve with whom the body maintains its life"
     ],
-    "answer": "Coagulopathy by affecting thrombin formation"
+    "answer": "make it possible to recognize, remove, ease or prevent symptoms"
   },
   {
-    "question": "A 'Mechanical ileus' is typically followed by:",
+    "question": "An ideal drug has:",
     "options": [
-      "Metabolic alkalosis",
-      "Submucosal stasis edema, ischemic infarction, and necrosis",
-      "Hypersecretion of intestinal glands",
-      "Increased intestinal motility"
+      "a precise activity",
+      "a known mechanism of action",
+      "constant efficiency"
     ],
-    "answer": "Submucosal stasis edema, ischemic infarction, and necrosis"
+    "answer": "a precise activity"
   },
   {
-    "question": "What indicates 'Hemoglobinuria'?",
+    "question": "An ideal drug has:",
     "options": [
-      "Presence of intact RBCs in urine",
-      "Dark brown to black urine due to intravascular hemolysis",
-      "Milky urine due to lipids",
-      "Green urine due to bile"
+      "constant efficiency",
+      "tolerable side effects",
+      "absence of side effects"
     ],
-    "answer": "Dark brown to black urine due to intravascular hemolysis"
+    "answer": "tolerable side effects"
   },
   {
-    "question": "Which condition leads to 'Relative Polycythemia'?",
+    "question": "All drugs that are absorbed in the body are toxic:",
     "options": [
-      "High altitude",
-      "Bone marrow tumor",
-      "Dehydration or hemoconcentration",
-      "Chronic lung disease"
+      "in higher doses than therapeutic",
+      "below the therapeutic dose",
+      "in therapeutic doses"
     ],
-    "answer": "Dehydration or hemoconcentration"
+    "answer": "in higher doses than therapeutic"
   },
   {
-    "question": "What is 'Anisocytosis'?",
+    "question": "Food - medicine - toxic can be, for example:",
     "options": [
-      "Variation in RBC color",
-      "Variation in RBC shape",
-      "Existence of RBC population with various sizes/ages",
-      "Presence of nuclei in RBCs"
+      "acetyl salicylic acid",
+      "glucose",
+      "minerals",
+      "hormones"
     ],
-    "answer": "Existence of RBC population with various sizes/ages"
+    "answer": "acetyl salicylic acid"
   },
   {
-    "question": "Hepatic coma is characterized by which biochemical change in the brain?",
+    "question": "Food - medicine - toxic can be, for example:",
     "options": [
-      "Decreased NH3",
-      "Increased NH3 in muscle, brain and CSF",
-      "Increased oxygen affinity",
-      "Hypoglycemia"
+      "microelements",
+      "minerals",
+      "vitamins"
     ],
-    "answer": "Increased NH3 in muscle, brain and CSF"
+    "answer": "microelements"
   },
   {
-    "question": "Which stage of the 'Leukocyte reaction' is characterized by monocytosis and neutropenia?",
+    "question": "Standardization drug includes:",
     "options": [
-      "Neutrophilic phase",
-      "Monocyte phase",
-      "Healing phase",
-      "Initial phase"
+      "adoption of tests that determine the purity and identity of a source of medicine",
+      "recommendations related to dose size",
+      "recommendations on the frequency of administration"
     ],
-    "answer": "Monocyte phase"
+    "answer": "adoption of tests that determine the purity and identity of a source of medicine"
   },
   {
-    "question": "What is the effect of 'Hypoalbuminemia' on capillary dynamics?",
+    "question": "In Pharmacopoeia is given the:",
     "options": [
-      "Increases oncotic pressure",
-      "Reduces oncotic pressure causing edema",
-      "Increases hydrostatic pressure",
-      "Causes dehydration"
+      "accepted name",
+      "officinal name",
+      "owner’s name"
     ],
-    "answer": "Reduces oncotic pressure causing edema"
+    "answer": "officinal name"
   },
   {
-    "question": "What does an 'Oesophageal diverticulum' represent?",
+    "question": "In current clinical practice is used the drug’s:",
     "options": [
-      "A narrowing of the esophagus",
-      "A pocket dilatation of the esophagus",
-      "An inflammation of the esophagus",
-      "A tumor of the esophagus"
+      "Latin name",
+      "official name",
+      "trade name"
     ],
-    "answer": "A pocket dilatation of the esophagus"
+    "answer": "trade name"
   },
   {
-    "question": "Which renal failure stage results in 'Uremia' and 'Hyperkalemia'?",
+    "question": "The drug’s Common International Name (DCI) is determined by:",
     "options": [
-      "Early stage CKD",
-      "Polyuric phase",
-      "Oliguric phase (AKI or final CKD)",
-      "Compensation phase"
+      "chemical structure",
+      "product’s Latin name",
+      "filed name of the active substance"
     ],
-    "answer": "Oliguric phase (AKI or final CKD)"
+    "answer": "chemical structure"
   },
   {
-    "question": "What is 'Thrombocytopenia'?",
+    "question": "The first Pharmacopoeia appeared in:",
     "options": [
-      "Increased platelet count",
-      "Decreased platelet count",
-      "Dysfunctional platelets",
-      "Increased clotting factors"
+      "Japan",
+      "China",
+      "Sumer",
+      "Greece"
     ],
-    "answer": "Decreased platelet count"
+    "answer": "Sumer"
   },
   {
-    "question": "Which urine crystal suggests liver disease?",
+    "question": "Romanian Pharmacopoeia appeared to date from:",
     "options": [
-      "Calcium oxalate",
-      "Triple phosphate",
-      "Ammonium acid urate",
-      "Cystine"
+      "X - edition",
+      "XI - edition",
+      "XII - edition"
     ],
-    "answer": "Ammonium acid urate"
+    "answer": "XI - edition"
   },
   {
-    "question": "What is the cause of 'Pulmonary Emphysema'?",
+    "question": "Medications can be given",
     "options": [
-      "Bacterial infection",
-      "Excessive accumulation of air with alveolar expansion and destruction",
-      "Fluid in the alveoli",
-      "Constriction of bronchioles"
+      "magisterially",
+      "officinal",
+      "typified",
+      "standardized"
     ],
-    "answer": "Excessive accumulation of air with alveolar expansion and destruction"
+    "answer": "magisterially"
   },
   {
-    "question": "Hypervolemia with 'decreased hematocrit' (Oligocythemic hypervolemia) is observed in:",
+    "question": "The dosage form means:",
     "options": [
-      "High altitude",
-      "Renal disease with fluid retention",
-      "Chronic hypoxia",
-      "Dehydration"
+      "pharmacy executable form with a fixed composition",
+      "finite presentation of a drug for administration"
     ],
-    "answer": "Renal disease with fluid retention"
+    "answer": "finite presentation of a drug for administration"
   },
   {
-    "question": "What is 'Drepanocytosis'?",
+    "question": "The chemical name is:",
     "options": [
-      "Star-shaped RBCs",
-      "Sickle-shaped RBCs with abnormal oxygen carrying",
-      "Spherical RBCs",
-      "Fragmented RBCs"
+      "officinal name in pharmacopoeia",
+      "the correlation of the chemical structure",
+      "producing company name given"
     ],
-    "answer": "Sickle-shaped RBCs with abnormal oxygen carrying"
+    "answer": "the correlation of the chemical structure"
   },
   {
-    "question": "The 'Vagotonic intestinal cramp' is the pathophysiological basis for:",
-    "options": ["Colic", "Heartburn", "Gastralgia", "Vomiting"],
-    "answer": "Colic"
+    "question": "The bioavailability of a drug is the relationship of:",
+    "options": [
+      "peak plasma drug test and reference drug",
+      "variability expressed as a percentage of a reference product compared with a product under test"
+    ],
+    "answer": "variability expressed as a percentage of a reference product compared with a product under test"
   },
   {
-    "question": "Which type of anemia is caused by a lack of Vitamin B12?",
+    "question": "Bioavailability of a drug is relationship of:",
     "options": [
-      "Microcytic anemia",
-      "Macrocytic (Megaloblastic) anemia",
-      "Normocytic anemia",
-      "Aplastic anemia"
+      "variability expressed as a percentage of a reference medicinal product compared to a drug test",
+      "blood test drug concentration compared to a reference medicinal",
+      "peak plasma drug test and reference drug"
     ],
-    "answer": "Macrocytic (Megaloblastic) anemia"
+    "answer": "variability expressed as a percentage of a reference medicinal product compared to a drug test"
   },
   {
-    "question": "What is the significance of 'Waxy casts' in urine sediment?",
+    "question": "The therapeutic effect of a drug is influenced primarily due to:",
     "options": [
-      "Acute infection",
-      "Degeneration of granular casts indicating chronic disease",
-      "Kidney stones",
-      "Normal finding"
+      "dissolution constant",
+      "absorption constant",
+      "biological half-life",
+      "rate of passage through lipophilic barriers",
+      "elimination constant",
+      "the constant accumulation in tissues"
     ],
-    "answer": "Degeneration of granular casts indicating chronic disease"
+    "answer": "absorption constant"
   },
   {
-    "question": "Which hormone insufficiency leads to 'Polyuria'?",
+    "question": "Bioavailability is:",
     "options": [
-      "Aldosterone",
-      "ADH (Antidiuretic Hormone)",
-      "Thyroid hormone",
-      "Insulin"
+      "inversely proportional to the dissolution rate",
+      "directly proportional to the rate of dissolution",
+      "It is not affected by this parameter"
     ],
-    "answer": "ADH (Antidiuretic Hormone)"
+    "answer": "directly proportional to the rate of dissolution"
   },
   {
-    "question": "Severe hepatic impairment is characterized by:",
+    "question": "An oral solution preparation form has a:",
     "options": [
-      "Mild lesions",
-      "Severe lesions with obvious and intense clinical manifestations",
-      "Inapparent manifestations",
-      "Normal blood values"
+      "great availability",
+      "low availability",
+      "equal to an bolus oral preparation"
     ],
-    "answer": "Severe lesions with obvious and intense clinical manifestations"
+    "answer": "great availability"
   },
   {
-    "question": "What is 'Hypochromia' in Red Blood Cells?",
+    "question": "Bioequivalence of a drug is determined by:",
     "options": [
-      "RBCs are more colorful than normal",
-      "RBCs are less colorful and ring-shaped",
-      "RBCs have blue tint",
-      "RBCs are fragmented"
+      "its chemical bioequivalence",
+      "its clinical bioequivalence",
+      "its therapeutic bioequivalence",
+      "isomeric bioequivalence",
+      "all above"
     ],
-    "answer": "RBCs are less colorful and ring-shaped"
+    "answer": "all above"
   },
   {
-    "question": "Which condition causes 'Pneumothorax'?",
+    "question": "Polymorphism is the property of a drug:",
     "options": [
-      "Air accumulation in the pleural cavity",
-      "Fluid accumulation in the lungs",
-      "Blood in the pleural cavity",
-      "Collapse of alveoli"
+      "to determine different therapeutic effect at the same species",
+      "to determine the clinical responses identical, but different speeds",
+      "to determine different therapeutic effects depending on the species"
     ],
-    "answer": "Air accumulation in the pleural cavity"
+    "answer": "to determine different therapeutic effects depending on the species"
   },
   {
-    "question": "What is 'Thrombasthenia'?",
+    "question": "Polymorphism is the property of a drug to:",
     "options": [
-      "Low platelet count",
-      "High platelet count",
-      "Functional disturbance of platelets (loss of agglutination)",
-      "Lack of fibrinogen"
+      "to determine different therapeutic effects at the same species",
+      "crystallize different",
+      "to determine the clinical responses identical, but different speeds"
     ],
-    "answer": "Functional disturbance of platelets (loss of agglutination)"
+    "answer": "crystallize different"
   },
   {
-    "question": "Which factor is NOT a cause of 'Renal Failure'?",
+    "question": "Polymorphs of active substances have:",
     "options": [
-      "Prerenal (e.g., shock, dehydration)",
-      "Renal (e.g., toxins, infection)",
-      "Post-renal (e.g., calculi)",
-      "Hyperventilation"
+      "totally different physical and chemical properties",
+      "identical physical properties but different chemical properties",
+      "different physical properties but chemical identical"
     ],
-    "answer": "Hyperventilation"
+    "answer": "different physical properties but chemical identical"
   },
   {
-    "question": "Gastric hypersecretion is characterized by:",
+    "question": "Polymorphs of active substances:",
     "options": [
-      "Presence of HCl outside digestive phase with small pepsin variation",
-      "Absence of HCl",
-      "Decrease in HCl during digestion",
-      "Large variation of pepsin"
+      "identical physical but different chemical properties",
+      "identical physico-chemical properties and different chemical",
+      "chemical and physical properties totally different"
     ],
-    "answer": "Presence of HCl outside digestive phase with small pepsin variation"
+    "answer": "chemical and physical properties totally different"
   },
   {
-    "question": "What does 'Anuria' mean?",
+    "question": "Thermodynamic unstable polymorphs are called also:",
     "options": [
-      "Excessive urination",
-      "Complete cessation or very low urine output",
-      "Painful urination",
-      "Nighttime urination"
+      "hipostable",
+      "metastable",
+      "thermolysis"
     ],
-    "answer": "Complete cessation or very low urine output"
+    "answer": "metastable"
   },
   {
-    "question": "What defines 'Leukocytosis'?",
+    "question": "The amorphous forms, as compared to the crystalline or anhydrous, have a dissolution speed usually:",
     "options": [
-      "Decrease in WBC",
-      "Increase in WBC number/mm3",
-      "Decrease in RBC",
-      "Increase in Platelets"
+      "smaller",
+      "greater",
+      "equal"
     ],
-    "answer": "Increase in WBC number/mm3"
+    "answer": "greater"
   },
   {
-    "question": "Which type of hypoxia is caused by cyanide poisoning stopping the respiratory chain?",
+    "question": "Designation of polymorphs is made with:",
     "options": [
-      "External hypoxia",
-      "Internal (histotoxic) hypoxia",
-      "Transport hypoxia",
-      "Anemic hypoxia"
+      "Arabic numerals",
+      "uppercase",
+      "roman numerals"
     ],
-    "answer": "Internal (histotoxic) hypoxia"
+    "answer": "roman numerals"
   },
   {
-    "question": "In urine analysis, what does the presence of 'Bilirubinuria' indicate?",
+    "question": "Aspirin given as monoparticles causes:",
     "options": [
-      "Kidney infection",
-      "Liver disease or hemolysis",
-      "Diabetes mellitus",
-      "Muscle trauma"
+      "far fewer gastric bleeding",
+      "more stomach bleeding",
+      "as many gastric bleeding as macroparticles"
     ],
-    "answer": "Liver disease or hemolysis"
+    "answer": "far fewer gastric bleeding"
   },
   {
-    "question": "What is the cause of 'Osteodystrophy' in chronic renal failure?",
+    "question": "Nitrofurantoin administered in the form of microcrystals (10μm), causes effect:",
     "options": [
-      "Secondary hyperparathyroidism",
-      "Vitamin A deficiency",
-      "Excessive calcium intake",
-      "Lack of exercise"
+      "more efficient",
+      "dizziness and nosea",
+      "effect identical to that produced by the larger crystal forms"
     ],
-    "answer": "Secondary hyperparathyroidism"
+    "answer": "more efficient"
+  },
+  {
+    "question": "Antihelmintic digestive products for a complex action, must:",
+    "options": [
+      "dissolve very rapidly",
+      "dissolve slowly",
+      "not dissolve, but stationed at the action site"
+    ],
+    "answer": "dissolve slowly"
+  },
+  {
+    "question": "Griseofulvin shredded ultrafine allows healing skin mycoses using only half the usual recommended dose.",
+    "options": [
+      "real",
+      "false",
+      "action is not influenced by the particle size"
+    ],
+    "answer": "real"
+  },
+  {
+    "question": "Cortisone with a great grinding will have action 20 times slower than the finely ground.",
+    "options": [
+      "action is not influenced",
+      "false",
+      "real"
+    ],
+    "answer": "false"
+  },
+  {
+    "question": "Barium sulfate fine particles are:",
+    "options": [
+      "a very good digestive",
+      "a digestive irritant (because it forms granulomas)",
+      "removed as such due to the reduction of particle"
+    ],
+    "answer": "a digestive irritant (because it forms granulomas)"
+  },
+  {
+    "question": "Decrease size of hydroxypropiophenone crystals entails:",
+    "options": [
+      "two times faster inhibition of gonadotropins",
+      "loss of specific inhibitory activity",
+      "diversion of estrogenic activity"
+    ],
+    "answer": "two times faster inhibition of gonadotropins"
+  },
+  {
+    "question": "Great reduction of the particle size generate:",
+    "options": [
+      "solubility decreasing",
+      "rheological properties change",
+      "environment moisture absorbing",
+      "loss of stability"
+    ],
+    "answer": "rheological properties change"
+  },
+  {
+    "question": "A deliquescent active substance is:",
+    "options": [
+      "a substance that has the ability to dispose water of crystallization",
+      "an active substance that can lower the melting point of another active substance",
+      "a substance that has the ability to absorb quantities of vapors to be transformed into its liquid form"
+    ],
+    "answer": "a substance that has the ability to absorb quantities of vapors to be transformed into its liquid form"
+  },
+  {
+    "question": "A deliquescent active substance is:",
+    "options": [
+      "an active substance that can lower the melting point of another active substance",
+      "a substance that has the ability to give up water of crystallization"
+    ],
+    "answer": "a substance that has the ability to give up water of crystallization"
+  },
+  {
+    "question": "An efflorescent active substance is:",
+    "options": [
+      "a substance that can lower the melting point of the other active substances",
+      "a substance which may lose all or part of crystallization water",
+      "a hygroscopic substance capable of absorbing moisture from the air"
+    ],
+    "answer": "a substance which may lose all or part of crystallization water"
+  },
+  {
+    "question": "An eutectic mixture is:",
+    "options": [
+      "a combination of active substances that decrease each others melting point and ultimately liquefaction",
+      "a combination of substances that change their hygroscopicity",
+      "an association that determines the loss of water of crystallization"
+    ],
+    "answer": "a combination of active substances that decrease each others melting point and ultimately liquefaction"
+  },
+  {
+    "question": "Which of these substances is efflorescent?",
+    "options": [
+      "aluminum sulphate",
+      "zinc carbonate",
+      "borax",
+      "aluminum silicate",
+      "codeine sulfate"
+    ],
+    "answer": "aluminum sulphate"
+  },
+  {
+    "question": "Which of these combinations is not deliquescent but efflorescent?",
+    "options": [
+      "aluminium sulphate - borax",
+      "phenol - thymol",
+      "camphor - Menthol",
+      "aspirin - acetanilide"
+    ],
+    "answer": "aluminium sulphate - borax"
+  },
+  {
+    "question": "An oral tablet will dissolve in (after R.Ph X)",
+    "options": [
+      "15 minutes",
+      "within 5 minutes",
+      "30-60 minutes"
+    ],
+    "answer": "30-60 minutes"
+  },
+  {
+    "question": "A solution is considered weak alkaline at a pH value between:",
+    "options": [
+      "7.5-10",
+      "6.5 to 7.5",
+      "10-12"
+    ],
+    "answer": "7.5-10"
+  },
+  {
+    "question": "A euhidric pH is a:",
+    "options": [
+      "pH is adjusted towards acidic or alkaline",
+      "pH adjusted to optimum stability",
+      "pH adjusted to a total dissociation of solute"
+    ],
+    "answer": "pH adjusted to optimum stability"
+  },
+  {
+    "question": "Liophobic colloids are:",
+    "options": [
+      "macromolecular compounds",
+      "corpuscular compounds",
+      "association colloids"
+    ],
+    "answer": "corpuscular compounds"
+  },
+  {
+    "question": "Liofobic colloids are insoluble substances in dispersed phase being a set of neutral atoms or molecules that:",
+    "options": [
+      "have affinity for the dispersion medium",
+      "have affinity for dispersion mode"
+    ],
+    "answer": "have affinity for dispersion mode"
+  },
+  {
+    "question": "Plasma substitutes are administered iv because:",
+    "options": [
+      "have a high molecular weight",
+      "do not cross the intestinal wall",
+      "replace the red blood cell mass"
+    ],
+    "answer": "have a high molecular weight"
+  },
+  {
+    "question": "Strictly i.v solutions can be administered with extreme pH:",
+    "options": [
+      "only acid",
+      "only basic",
+      "both acidic and basic conditions"
+    ],
+    "answer": "both acidic and basic conditions"
+  },
+  {
+    "question": "Blood has an increased potential buffer than other tissues:",
+    "options": [
+      "real",
+      "false",
+      "blood has no buffer system"
+    ],
+    "answer": "real"
+  },
+  {
+    "question": "Drug solutions with a lower molecular concentration than blood serum are called:",
+    "options": [
+      "hypotonic",
+      "Isotonic",
+      "hypertonic"
+    ],
+    "answer": "hypotonic"
+  },
+  {
+    "question": "Hypertonic dehydration is expressed through:",
+    "options": [
+      "increase cellular spaces and edema",
+      "intake of electrolytes without input energy solutions",
+      "loss of water without loss of electrolytes"
+    ],
+    "answer": "loss of water without loss of electrolytes"
+  },
+  {
+    "question": "Electrolyte balance may be amended:",
+    "options": [
+      "changing acid-base balance",
+      "glandular disorders and kidney",
+      "inadequate sodium intake"
+    ],
+    "answer": "changing acid-base balance"
+  },
+  {
+    "question": "Which explanation is correct for im injections",
+    "options": [
+      "hypotonic solutions IM causes turgor, swelling protoplasm, expansion of the cell membrane, even plasmolyzing",
+      "the cell membrane voltage translates into pain",
+      "excessive hypertonic solutions IM causes moisture, protoplasm expands"
+    ],
+    "answer": "the cell membrane voltage translates into pain"
+  },
+  {
+    "question": "Which explanation is correct for im injections?",
+    "options": [
+      "hypertonic solutions IM dry the area, releasing cellular water",
+      "protoplasm shrinks its volume and detaches from the membrane",
+      "permeability alterations, with the final hemolysis"
+    ],
+    "answer": "hypertonic solutions IM dry the area, releasing cellular water"
+  },
+  {
+    "question": "Which explanation is correct if IV injection?",
+    "options": [
+      "hypertonic solutions in excess affect the viability of cells (osmotic variation), the phenomenon of hemolysis can be faster",
+      "a hypertonic solution should be administered only IV.",
+      "in contact with hypotonic solutions erythrocytes swell and burst due to osmotic pressure",
+      "Interstitial fluid circuit is slow and preferably not to use in this case"
+    ],
+    "answer": "hypertonic solutions in excess affect the viability of cells (osmotic variation), the phenomenon of hemolysis can be faster"
+  },
+  {
+    "question": "Injections to be very well tolerated by the body must be blood serum:",
+    "options": [
+      "hypotonic",
+      "isotonic",
+      "hypertonic",
+      "it has no importance"
+    ],
+    "answer": "isotonic"
+  },
+  {
+    "question": "A drug solution will be isotonic with serum when:",
+    "options": [
+      "it has the same osmotic pressure",
+      "the same freezing point",
+      "it has the same molecular concentration"
+    ],
+    "answer": "it has the same osmotic pressure"
+  },
+  {
+    "question": "Hyperhydration isotonic entails:",
+    "options": [
+      "massive intake of water and / or energy solutions without electrolyte intake",
+      "water depletion and accumulation of electrolytes",
+      "increasing intercellular space and edema"
+    ],
+    "answer": "increasing intercellular space and edema"
+  },
+  {
+    "question": "Pyrogenic substances are:",
+    "options": [
+      "natural substances, endotoxins from microorganisms",
+      "thermoset macropolizaharide substances",
+      "unsterile synthetic substances"
+    ],
+    "answer": "natural substances, endotoxins from microorganisms"
+  },
+  {
+    "question": "Pyrogens can produce:",
+    "options": [
+      "hypothalamic centers impairment (for 2-12 hours)",
+      "a specific clinical picture: rapid pulse, respiratory changes, hyperthermia in 15-60 minutes",
+      "hyperexcitation and hypothermia followed by exitus in 10-15 minutes"
+    ],
+    "answer": "a specific clinical picture: rapid pulse, respiratory changes, hyperthermia in 15-60 minutes"
+  },
+  {
+    "question": "A preparation for infusion contains:",
+    "options": [
+      "drugs with pharmacodynamic activity",
+      "dispersion in the form of suspensions",
+      "molecular and colloidal dispersions, emulsions rarely"
+    ],
+    "answer": "molecular and colloidal dispersions, emulsions rarely"
+  },
+  {
+    "question": "The rate of aerosol to the respiratory tract absorption compared to absorption by the iv route is:",
+    "options": [
+      "lower",
+      "higher",
+      "at least equal"
+    ],
+    "answer": "lower"
+  },
+  {
+    "question": "The aerosols can be used to achieve systemic effects:",
+    "options": [
+      "yes",
+      "no",
+      "have only local effect"
+    ],
+    "answer": "yes"
+  },
+  {
+    "question": "The most appropriate size for spray medicine to be held in bronchioles is:",
+    "options": [
+      "20-30 µm",
+      "0.8 - 2 µm",
+      "10 - 20 µm",
+      "2-5 µm"
+    ],
+    "answer": "2-5 µm"
+  },
+  {
+    "question": "Thixotropy is:",
+    "options": [
+      "the ability of a liquid to cover a wide surface area",
+      "the ability of an ointment to cover a wide surface area",
+      "the ability of an ointment to return, more or less to the original shape"
+    ],
+    "answer": "the ability of an ointment to return, more or less to the original shape"
+  },
+  {
+    "question": "Acanthosis test gives data on:",
+    "options": [
+      "tolerance to solutions with increasing dose administered IV",
+      "the degree of swelling of the tissue after IM",
+      "skin tolerance"
+    ],
+    "answer": "skin tolerance"
+  },
+  {
+    "question": "Intrarectaly can be given:",
+    "options": [
+      "sedative",
+      "analgesics",
+      "antispasmodics"
+    ],
+    "answer": "sedative"
+  },
+  {
+    "question": "Intrarectal way will not be chosen for:",
+    "options": [
+      "animals too young",
+      "rectal mucosal lesions",
+      "animals in fatigue"
+    ],
+    "answer": "rectal mucosal lesions"
+  },
+  {
+    "question": "Hepatic barrier has an essential role, being:",
+    "options": [
+      "an advantage in administering drugs",
+      "a disadvantage in the administration",
+      "an advantage in poisonings",
+      "a disadvantage in intoxication"
+    ],
+    "answer": "an advantage in poisonings"
+  },
+  {
+    "question": "An alkaline metal salt of penicillin generates diffusible ions as compared with an organic salt in:",
+    "options": [
+      "20-30 minutes with a duration of action is 4-6 hours",
+      "6-hour ,duration of action of 18 hours"
+    ],
+    "answer": "20-30 minutes with a duration of action is 4-6 hours"
+  },
+  {
+    "question": "Between i.m drug injection sites are bioavailability differences:",
+    "options": [
+      "true",
+      "False",
+      "is dependent on muscle group"
+    ],
+    "answer": "true"
+  },
+  {
+    "question": "After sc administration of ampicillin in the shoulders, peak plasma will occur in:",
+    "options": [
+      "3.9 hours",
+      "3.3 hours",
+      "4.6 hours"
+    ],
+    "answer": "3.3 hours"
+  },
+  {
+    "question": "The tolerance to pain in animals, depending on the route of administration, increases:",
+    "options": [
+      "IV < IM < SC",
+      "SC < IM < IV",
+      "IM < SC < IV"
+    ],
+    "answer": "IV < IM < SC"
+  },
+  {
+    "question": "At the basis of homeopathy were the first principles:",
+    "options": [
+      "isopathy",
+      "zooiasic",
+      "vedic"
+    ],
+    "answer": "isopathy"
+  },
+  {
+    "question": "The first book of veterinary homeopathy was published in 1837 in:",
+    "options": [
+      "Austria - Hungary",
+      "Germany",
+      "Netherlands"
+    ],
+    "answer": "Austria - Hungary"
+  },
+  {
+    "question": "The benefits of homeopathy are:",
+    "options": [
+      "the use of very small doses",
+      "efficacy in diseases where the body reactivity is blocked",
+      "achieving rapid and uncomplicated results",
+      "potency choice, even wrong, is not harmful"
+    ],
+    "answer": "the use of very small doses"
+  },
+  {
+    "question": "Homeopathy has the drawback:",
+    "options": [
+      "is not effective in severe poisoning or cancer",
+      "is not effective in the fields of harmful interference",
+      "injections are painful and toxic in wrong choice potencies"
+    ],
+    "answer": "is not effective in severe poisoning or cancer"
+  },
+  {
+    "question": "Hahnemiene principles of homeopathy are:",
+    "options": [
+      "principle of similarity",
+      "the principle of antagonism",
+      "the principle of dilution",
+      "the principle of individualization"
+    ],
+    "answer": "principle of similarity"
+  },
+  {
+    "question": "In homeopathy, healing occurs rapidly late or sometimes after a phase of worsening auspicious:",
+    "options": [
+      "no worsening of disease treatment is considered as auspicious",
+      "true",
+      "false"
+    ],
+    "answer": "true"
   }
 ]

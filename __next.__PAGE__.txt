@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
 2:I[68559,["/_next/static/chunks/2e5af62f0e72e4c2.js"],"OutletBoundary"]
 3:"$Sreact.suspense"
-0:{"buildId":"ERaE315sq6kx2y4rjLX57","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex min-h-screen flex-col items-center justify-center py-2","children":[["$","h1",null,{"className":"text-4xl font-bold","children":"Nicolas Spijkerman"}],["$","p",null,{"className":"mt-4","children":"Nicolas Spijkerman's portfolio."}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"D-LpB1I_nHkMc8FmiM8TZ","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex min-h-screen flex-col items-center justify-center py-2","children":[["$","h1",null,{"className":"text-4xl font-bold","children":"Nicolas Spijkerman"}],["$","p",null,{"className":"mt-4","children":"Nicolas Spijkerman's portfolio."}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
 4:null
